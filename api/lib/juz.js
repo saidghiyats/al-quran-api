@@ -10,44 +10,44 @@ const juzData = _inputJuz => {
    const startAyah = inputJuz.start.verse - 1;
    const endSurah = inputJuz.end.index - 1;
    const endAyah = inputJuz.end.verse;
-   let juzAyah, _firstSurah, _middle, _middleSurah, _lastSurah;
+   let juzAyah = [];
 
-   if (startSurah === endSurah) {
-      juzAyah = quran[startSurah].verses.slice(startAyah, endAyah);
-   } else if (endSurah - startSurah > 1) {
-      _firstSurah = quran[startSurah].verses.slice(startAyah);
-      _middle = quran.slice(startSurah + 1, endSurah);
-      _middleSurah = [];
-      _middle.map(items => {
-         items.verses.map(item => {
-            _middleSurah.push(item);
-         });
-      });
-      _lastSurah = quran[endSurah].verses.slice(0, endAyah);
-      juzAyah = [..._firstSurah, ..._middleSurah, ..._lastSurah];
-   } else {
-      _firstSurah = quran[startSurah].verses.slice(startAyah);
-      _lastSurah = quran[endSurah].verses.slice(0, endAyah);
-      juzAyah = [..._firstSurah, ..._lastSurah];
+   for (let i = startSurah; i <= endSurah; i++) {
+      const surah = quran[i];
+      const ayahCount = surah.verses.length;
+      const surahAyah = {
+         number: surah.number,
+         name: surah.name.transliteration.id,
+         verses: [],
+      };
+
+      if (i === startSurah) {
+         for (let j = startAyah; j < ayahCount; j++) {
+            surahAyah.verses.push(surah.verses[j]);
+         }
+      } else if (i === endSurah) {
+         for (let j = 0; j < endAyah; j++) {
+            surahAyah.verses.push(surah.verses[j]);
+         }
+      } else {
+         surahAyah.verses = surah.verses;
+      }
+
+      juzAyah.push(surahAyah);
    }
 
-   const versesData = quran.slice(startSurah, endSurah + 1).map(surah => {
-      const { number, name } = surah;
-      const verses = surah.verses.slice(0, number === endSurah + 1 ? endAyah : undefined);
-      return { number, name, verses };
-   });
-
-   const startSurahName = quran[startSurah].name.transliteration.id;
-   const endSurahName = quran[endSurah].name.transliteration.id;
    const data = {
       juz: _inputJuz,
       juzStartSurahNumber: inputJuz.start.index,
       juzEndSurahNumber: inputJuz.end.index,
-      juzStartInfo: `${startSurahName} - ${inputJuz.start.verse}`,
-      juzEndInfo: `${endSurahName} - ${inputJuz.end.verse}`,
-      totalVerses: juzAyah.length,
-      data: versesData,
+      juzStartSurah: `${quran[startSurah].name.transliteration.id}`,
+      juzStartInfo: `${quran[startSurah].name.transliteration.id} - ${inputJuz.start.verse}`,
+      juzEndSurah: `${quran[endSurah].name.transliteration.id}`,
+      juzEndInfo: `${quran[endSurah].name.transliteration.id} - ${inputJuz.end.verse}`,
+      totalVerses: juzAyah.reduce((total, surah) => total + surah.verses.length, 0),
+      data: juzAyah,
    };
+
    return data;
 };
 
