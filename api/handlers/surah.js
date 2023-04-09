@@ -81,6 +81,7 @@ class SurahHandler {
          sequence: dataSurah.sequence,
          numberOfVerses: dataSurah.numberOfVerses,
          name: dataSurah.name,
+         revelation: dataSurah.revelation,
          tafsir: dataSurah.tafsir,
          preBismillah: dataSurah.preBismillah,
          verses,

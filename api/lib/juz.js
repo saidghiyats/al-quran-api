@@ -17,7 +17,9 @@ const juzData = _inputJuz => {
       const ayahCount = surah.verses.length;
       const surahAyah = {
          number: surah.number,
+         numberOfVerses: surah.numberOfVerses,
          name: surah.name,
+         revelation: surah.revelation,
          verses: [],
       };
 
