@@ -76,7 +76,15 @@ class SurahHandler {
 
       const dataSurah = { ...checkSurah };
       delete dataSurah.verses;
-      const data = { surah: dataSurah, verses };
+      const data = {
+         number: dataSurah.number,
+         sequence: dataSurah.sequence,
+         numberOfVerses: dataSurah.numberOfVerses,
+         name: dataSurah.name,
+         tafsir: dataSurah.tafsir,
+         preBismillah: dataSurah.preBismillah,
+         verses,
+      };
       return res.status(200).send({
          code: 200,
          status: 'OK.',

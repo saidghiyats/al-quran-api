@@ -17,7 +17,7 @@ const juzData = _inputJuz => {
       const ayahCount = surah.verses.length;
       const surahAyah = {
          number: surah.number,
-         name:surah.name,
+         name: surah.name,
          verses: [],
       };
 
@@ -38,14 +38,10 @@ const juzData = _inputJuz => {
 
    const data = {
       juz: _inputJuz,
-      juzStartSurahNumber: inputJuz.start.index,
-      juzEndSurahNumber: inputJuz.end.index,
-      juzStartSurah: `${quran[startSurah].name.transliteration.id}`,
       juzStartInfo: `${quran[startSurah].name.transliteration.id} - ${inputJuz.start.verse}`,
-      juzEndSurah: `${quran[endSurah].name.transliteration.id}`,
       juzEndInfo: `${quran[endSurah].name.transliteration.id} - ${inputJuz.end.verse}`,
       totalVerses: juzAyah.reduce((total, surah) => total + surah.verses.length, 0),
-      data: juzAyah,
+      dataJuz: juzAyah,
    };
 
    return data;
