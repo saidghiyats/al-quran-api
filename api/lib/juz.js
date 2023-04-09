@@ -20,6 +20,8 @@ const juzData = _inputJuz => {
          numberOfVerses: surah.numberOfVerses,
          name: surah.name,
          revelation: surah.revelation,
+         tafsir: surah.tafsir,
+         preBismillah: surah.preBismillah,
          verses: [],
       };
 
