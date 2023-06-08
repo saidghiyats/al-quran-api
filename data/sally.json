@@ -1,0 +1,5182 @@
+[
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH BARAT",
+      "daylight": "0",
+      "kode": "c4ca4238a0b923820dcc509a6f75849b",
+      "latitude": "4.23975",
+      "longitude": "96.0016",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH BARAT DAYA",
+      "daylight": "0",
+      "kode": "c81e728d9d4c2f636f067f89cc14862c",
+      "latitude": "3.75326",
+      "longitude": "96.82924",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH BESAR",
+      "daylight": "0",
+      "kode": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+      "latitude": "5.39296",
+      "longitude": "95.51281",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH JAYA",
+      "daylight": "0",
+      "kode": "a87ff679a2f3e71d9181a67b7542122c",
+      "latitude": "4.81312",
+      "longitude": "95.45973",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH SELATAN",
+      "daylight": "0",
+      "kode": "e4da3b7fbbce2345d7772b0674a318d5",
+      "latitude": "3.43197",
+      "longitude": "97.07593",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH SINGKIL",
+      "daylight": "0",
+      "kode": "1679091c5a880faf6fb5e6087eb1b2dc",
+      "latitude": "5.53152",
+      "longitude": "95.29908",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH TAMIANG",
+      "daylight": "0",
+      "kode": "8f14e45fceea167a5a36dedd4bea2543",
+      "latitude": "5.61061",
+      "longitude": "95.38908",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH TENGAH",
+      "daylight": "0",
+      "kode": "c9f0f895fb98ab9159f51fd0297e236d",
+      "latitude": "4.50357",
+      "longitude": "96.86065",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH TENGGARA",
+      "daylight": "0",
+      "kode": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+      "latitude": "3.32754",
+      "longitude": "97.94437",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH TIMUR",
+      "daylight": "0",
+      "kode": "d3d9446802a44259755d38e6d163e820",
+      "latitude": "4.88575",
+      "longitude": "97.834",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ACEH UTARA",
+      "daylight": "0",
+      "kode": "6512bd43d9caa6e02c990b0a82652dca",
+      "latitude": "5.10628",
+      "longitude": "97.27617",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BENER MERIAH",
+      "daylight": "0",
+      "kode": "c20ad4d76fe97759aa27a0c99bff6710",
+      "latitude": "4.85727",
+      "longitude": "96.74416",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BIREUEN",
+      "daylight": "0",
+      "kode": "c51ce410c124a10e0db5e4b97fc2af39",
+      "latitude": "5.18952",
+      "longitude": "96.49175",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GAYO LUES",
+      "daylight": "0",
+      "kode": "aab3238922bcc25a6f606eb525ffdc56",
+      "latitude": "3.98106",
+      "longitude": "97.35034",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NAGAN RAYA",
+      "daylight": "0",
+      "kode": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+      "latitude": "4.09976",
+      "longitude": "96.36943",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PIDIE",
+      "daylight": "0",
+      "kode": "c74d97b01eae257e44aa9d5bade97baf",
+      "latitude": "5.38111",
+      "longitude": "95.91835",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PIDIE JAYA",
+      "daylight": "0",
+      "kode": "70efdf2ec9b086079795c442636b55fb",
+      "latitude": "5.26363",
+      "longitude": "96.16394",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIMEULUE",
+      "daylight": "0",
+      "kode": "6f4922f45568161a8cdf4ad2299f6d23",
+      "latitude": "2.59836",
+      "longitude": "95.98304",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BANDA ACEH",
+      "daylight": "0",
+      "kode": "1f0e3dad99908345f7439f8ffabdffc4",
+      "latitude": "5.55464",
+      "longitude": "95.32094",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA LANGSA",
+      "daylight": "0",
+      "kode": "98f13708210194c475687be6106a3b84",
+      "latitude": "4.47222",
+      "longitude": "97.96509",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA LHOKSEUMAWE",
+      "daylight": "0",
+      "kode": "3c59dc048e8850243be8079a5c74d079",
+      "latitude": "5.19217",
+      "longitude": "97.11698",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SABANG",
+      "daylight": "0",
+      "kode": "b6d767d2f8ed5d21a44b0e5886680cb9",
+      "latitude": "5.89066",
+      "longitude": "95.31942",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SUBULUSSALAM",
+      "daylight": "0",
+      "kode": "37693cfc748049e45d87b8c7d8b9aacd",
+      "latitude": "2.74984",
+      "longitude": "97.95943",
+      "state": "ACEH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ASAHAN",
+      "daylight": "0",
+      "kode": "1ff1de774005f8da13f42943881c655f",
+      "latitude": "2.98124",
+      "longitude": "99.62225",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BATUBARA",
+      "daylight": "0",
+      "kode": "8e296a067a37563370ded05f5a3bf3ec",
+      "latitude": "3.17401",
+      "longitude": "99.41451",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DAIRI",
+      "daylight": "0",
+      "kode": "4e732ced3463d06de0ca9a15b6153677",
+      "latitude": "2.77583",
+      "longitude": "98.48052",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DELI SERDANG",
+      "daylight": "0",
+      "kode": "02e74f10e0327ad868d138f2b4fdd6f0",
+      "latitude": "3.55177",
+      "longitude": "98.86554",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HUMBANG HASUNDUTAN",
+      "daylight": "0",
+      "kode": "33e75ff09dd601bbe69f351039152189",
+      "latitude": "2.29037",
+      "longitude": "98.74139",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KARO",
+      "daylight": "0",
+      "kode": "6ea9ab1baa0efb9e19094440c317e21b",
+      "latitude": "3.13218",
+      "longitude": "98.5085",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LABUHANBATU",
+      "daylight": "0",
+      "kode": "34173cb38f07f89ddbebc2ac9128303f",
+      "latitude": "2.09132",
+      "longitude": "99.84034",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LABUHANBATU SELATAN",
+      "daylight": "0",
+      "kode": "c16a5320fa475530d9583c34fd356ef5",
+      "latitude": "1.84926",
+      "longitude": "100.16609",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LABUHANBATU UTARA",
+      "daylight": "0",
+      "kode": "6364d3f0f495b6ab9dcf8d3b5c6e0b01",
+      "latitude": "2.39375",
+      "longitude": "99.70166",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LANGKAT",
+      "daylight": "0",
+      "kode": "182be0c5cdcd5072bb1864cdee4d3d6e",
+      "latitude": "3.91872",
+      "longitude": "98.39842",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MANDAILING NATAL",
+      "daylight": "0",
+      "kode": "e369853df766fa44e1ed0ff613f563bd",
+      "latitude": "0.77543",
+      "longitude": "99.57928",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NIAS",
+      "daylight": "0",
+      "kode": "1c383cd30b7c298ab50293adfecb7b18",
+      "latitude": "1.23003",
+      "longitude": "97.65188",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NIAS BARAT",
+      "daylight": "0",
+      "kode": "19ca14e7ea6328a42e0eb13d585e4c22",
+      "latitude": "1.03953",
+      "longitude": "97.50412",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NIAS SELATAN",
+      "daylight": "0",
+      "kode": "a5bfc9e07964f8dddeb95fc584cd965d",
+      "latitude": "0.79063",
+      "longitude": "97.7538",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NIAS UTARA",
+      "daylight": "0",
+      "kode": "a5771bce93e200c36f7cd9dfd0e5deaa",
+      "latitude": "1.29782",
+      "longitude": "97.36411",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PADANG LAWAS",
+      "daylight": "0",
+      "kode": "d67d8ab4f4c10bf22aa353e27879133c",
+      "latitude": "1.13604",
+      "longitude": "99.59324",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PADANG LAWAS UTARA",
+      "daylight": "0",
+      "kode": "d645920e395fedad7bbbed0eca3fe2e0",
+      "latitude": "1.55572",
+      "longitude": "99.69785",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PAKPAK BHARAT",
+      "daylight": "0",
+      "kode": "3416a75f4cea9109507cacd8e2f2aefc",
+      "latitude": "2.64754",
+      "longitude": "98.24966",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SAMOSIR",
+      "daylight": "0",
+      "kode": "a1d0c6e83f027327d8461063f4ac58a6",
+      "latitude": "2.53886",
+      "longitude": "98.62339",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SERDANG BEDAGAI",
+      "daylight": "0",
+      "kode": "17e62166fc8586dfa4d1bc0e1742c08b",
+      "latitude": "3.49812",
+      "longitude": "99.11993",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIMALUNGUN",
+      "daylight": "0",
+      "kode": "f7177163c833dff4b38fc8d2872f1ec6",
+      "latitude": "2.83306",
+      "longitude": "99.03405",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TAPANULI SELATAN",
+      "daylight": "0",
+      "kode": "6c8349cc7260ae62e3b1396831a8398f",
+      "latitude": "1.4378",
+      "longitude": "99.15633",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TAPANULI TENGAH",
+      "daylight": "0",
+      "kode": "d9d4f495e875a2e075a1a4a6e1b9770f",
+      "latitude": "1.90379",
+      "longitude": "98.61364",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TAPANULI UTARA",
+      "daylight": "0",
+      "kode": "67c6a1e7ce56d3d6fa748ab6d9af3fd7",
+      "latitude": "2.22108",
+      "longitude": "98.98178",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TOBA SAMOSIR",
+      "daylight": "0",
+      "kode": "642e92efb79421734881b53e1e1b18b6",
+      "latitude": "2.38096",
+      "longitude": "99.14778",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BINJAI",
+      "daylight": "0",
+      "kode": "f457c545a9ded88f18ecee47145a72c0",
+      "latitude": "3.60183",
+      "longitude": "98.48167",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA GUNUNGSITOLI",
+      "daylight": "0",
+      "kode": "c0c7c76d30bd3dcaefc96f40275bdc0a",
+      "latitude": "1.28584",
+      "longitude": "97.58381",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MEDAN",
+      "daylight": "0",
+      "kode": "2838023a778dfaecdc212708f721b788",
+      "latitude": "3.59211",
+      "longitude": "98.67694",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PADANGSIDEMPUAN",
+      "daylight": "0",
+      "kode": "9a1158154dfa42caddbd0694a4e9bdc8",
+      "latitude": "1.33457",
+      "longitude": "99.30523",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PEMATANGSIANTAR",
+      "daylight": "0",
+      "kode": "d82c8d1619ad8176d665453cfb2e55f0",
+      "latitude": "2.95778",
+      "longitude": "99.0677",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SIBOLGA",
+      "daylight": "0",
+      "kode": "a684eceee76fc522773286a895bc8436",
+      "latitude": "1.74197",
+      "longitude": "98.78642",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TANJUNGBALAI",
+      "daylight": "0",
+      "kode": "b53b3a3d6ab90ce0268229151c9bde11",
+      "latitude": "3.55988",
+      "longitude": "98.69806",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TEBING TINGGI",
+      "daylight": "0",
+      "kode": "9f61408e3afb633e50cdf1b20de6f466",
+      "latitude": "3.33723",
+      "longitude": "99.16452",
+      "state": "SUMATERA UTARA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. AGAM",
+      "daylight": "0",
+      "kode": "72b32a1f754ba1c09b3695e0cb6cde7f",
+      "latitude": "-0.2478",
+      "longitude": "100.18926",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DHARMASRAYA",
+      "daylight": "0",
+      "kode": "66f041e16a60928b05a7e228a89c3799",
+      "latitude": "-1.10669",
+      "longitude": "101.71126",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN MENTAWAI",
+      "daylight": "0",
+      "kode": "093f65e080a295f8076b1c5722a46aa2",
+      "latitude": "-1.38738",
+      "longitude": "98.91553",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LIMA PULUH KOTA",
+      "daylight": "0",
+      "kode": "072b030ba126b2f4b2374f342be9ed44",
+      "latitude": "0.05421",
+      "longitude": "100.75409",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PADANG PARIAMAN",
+      "daylight": "0",
+      "kode": "7f39f8317fbdb1988ef4c628eba02591",
+      "latitude": "-0.56318",
+      "longitude": "100.28141",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PASAMAN",
+      "daylight": "0",
+      "kode": "44f683a84163b3523afe57c2e008bc8c",
+      "latitude": "0.37582",
+      "longitude": "100.05845",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PASAMAN BARAT",
+      "daylight": "0",
+      "kode": "03afdbd66e7929b125f8597834fa83a4",
+      "latitude": "0.23015",
+      "longitude": "99.72251",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PESISIR SELATAN",
+      "daylight": "0",
+      "kode": "ea5d2f1c4608232e07d3aa3d998e5135",
+      "latitude": "-1.78553",
+      "longitude": "100.82558",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIJUNJUNG",
+      "daylight": "0",
+      "kode": "fc490ca45c00b1249bbe3554a4fdf6fb",
+      "latitude": "-0.60403",
+      "longitude": "101.10026",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SOLOK",
+      "daylight": "0",
+      "kode": "3295c76acbf4caaed33c36b1b5fc2cb1",
+      "latitude": "-1.05835",
+      "longitude": "100.75613",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SOLOK SELATAN",
+      "daylight": "0",
+      "kode": "735b90b4568125ed6c3f678819b6e058",
+      "latitude": "-1.49447",
+      "longitude": "101.06615",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANAH DATAR",
+      "daylight": "0",
+      "kode": "a3f390d88e4c41f2747bfa2f1b5f87db",
+      "latitude": "-0.47042",
+      "longitude": "100.57998",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BUKITTINGGI",
+      "daylight": "0",
+      "kode": "14bfa6bb14875e45bba028a21ed38046",
+      "latitude": "-0.4143",
+      "longitude": "100.40638",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PADANG",
+      "daylight": "0",
+      "kode": "7cbbc409ec990f19c78c75bd1e06f215",
+      "latitude": "-0.94825",
+      "longitude": "100.35496",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PADANGPANJANG",
+      "daylight": "0",
+      "kode": "e2c420d928d4bf8ce0ff2ec19b371514",
+      "latitude": "-0.46321",
+      "longitude": "100.39714",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PARIAMAN",
+      "daylight": "0",
+      "kode": "32bb90e8976aab5298d5da10fe66f21d",
+      "latitude": "-0.62564",
+      "longitude": "100.12492",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PAYAKUMBUH",
+      "daylight": "0",
+      "kode": "d2ddea18f00665ce8623e36bd4e3c7c5",
+      "latitude": "-0.18348",
+      "longitude": "100.62875",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SAWAHLUNTO",
+      "daylight": "0",
+      "kode": "ad61ab143223efbc24c7d2583be69251",
+      "latitude": "-0.89419",
+      "longitude": "100.36513",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SOLOK",
+      "daylight": "0",
+      "kode": "d09bf41544a3365a46c9077ebb5e35c3",
+      "latitude": "-1.05835",
+      "longitude": "100.75613",
+      "state": "SUMATERA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BENGKALIS",
+      "daylight": "0",
+      "kode": "fbd7939d674997cdb4692d34de8633c4",
+      "latitude": "1.45745",
+      "longitude": "102.19467",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. INDRAGIRI HILIR",
+      "daylight": "0",
+      "kode": "28dd2c7955ce926456240b2ff0100bde",
+      "latitude": "-0.35188",
+      "longitude": "103.11147",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. INDRAGIRI HULU",
+      "daylight": "0",
+      "kode": "35f4a8d465e6e1edc05f3d8ab658c551",
+      "latitude": "-0.56651",
+      "longitude": "102.39871",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KAMPAR",
+      "daylight": "0",
+      "kode": "d1fe173d08e959397adf34b1d77e88d7",
+      "latitude": "0.3534",
+      "longitude": "101.09992",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN MERANTI",
+      "daylight": "0",
+      "kode": "f033ab37c30201f73f142449d037028d",
+      "latitude": "0.96979",
+      "longitude": "102.71579",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUANTAN SINGINGI",
+      "daylight": "0",
+      "kode": "43ec517d68b6edd3015b3edc9a11367b",
+      "latitude": "-0.67044",
+      "longitude": "101.45896",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PELALAWAN",
+      "daylight": "0",
+      "kode": "9778d5d219c5080b9a6a17bef029331c",
+      "latitude": "0.36224",
+      "longitude": "101.89914",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ROKAN HILIR",
+      "daylight": "0",
+      "kode": "fe9fc289c3ff0af142b6d3bead98a923",
+      "latitude": "1.66857",
+      "longitude": "100.78809",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ROKAN HULU",
+      "daylight": "0",
+      "kode": "68d30a9594728bc39aa24be94b319d21",
+      "latitude": "0.8512",
+      "longitude": "100.31153",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIAK",
+      "daylight": "0",
+      "kode": "3ef815416f775098fe977004015c6193",
+      "latitude": "0.80663",
+      "longitude": "102.05319",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA DUMAI",
+      "daylight": "0",
+      "kode": "93db85ed909c13838ff95ccfa94cebd9",
+      "latitude": "1.60527",
+      "longitude": "101.4232",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PEKANBARU",
+      "daylight": "0",
+      "kode": "c7e1249ffc03eb9ded908c236bd1996d",
+      "latitude": "0.49197",
+      "longitude": "101.41907",
+      "state": "RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BINTAN",
+      "daylight": "0",
+      "kode": "2a38a4a9316c49e5a833517c45d31070",
+      "latitude": "1.1203",
+      "longitude": "104.43671",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KARIMUN",
+      "daylight": "0",
+      "kode": "7647966b7343c29048673252e490f736",
+      "latitude": "0.99997",
+      "longitude": "103.43129",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN ANAMBAS",
+      "daylight": "0",
+      "kode": "8613985ec49eb8f757ae6439e879bb2a",
+      "latitude": "2.92469",
+      "longitude": "105.74407",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LINGGA",
+      "daylight": "0",
+      "kode": "54229abfcfa5649e7003b83dd4755294",
+      "latitude": "-0.16691",
+      "longitude": "104.66075",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NATUNA",
+      "daylight": "0",
+      "kode": "92cc227532d17e56e07902b254dfad10",
+      "latitude": "3.90878",
+      "longitude": "108.20168",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BATAM",
+      "daylight": "0",
+      "kode": "98dce83da57b0395e163467c9dae521b",
+      "latitude": "1.08902",
+      "longitude": "104.03422",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TANJUNG PINANG",
+      "daylight": "0",
+      "kode": "f4b9ec30ad9f68f89b29639786cb62ef",
+      "latitude": "0.91078",
+      "longitude": "104.5192",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "PULAU TAMBELAN KAB. BINTAN",
+      "daylight": "0",
+      "kode": "f3f27a324736617f20abbf2ffd806f6d",
+      "latitude": "0.9553",
+      "longitude": "107.45582",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "PEKAJANG KAB. LINGGA",
+      "daylight": "0",
+      "kode": "38913e1d6a7b94cb0f55994f679f5956",
+      "latitude": "-0.16691",
+      "longitude": "104.66075",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "PULAU SERASAN KAB. NATUNA",
+      "daylight": "0",
+      "kode": "ebd9629fc3ae5e9f6611e2ee05a31cef",
+      "latitude": "2.54766",
+      "longitude": "109.00364",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "PULAU MIDAI KAB. NATUNA",
+      "daylight": "0",
+      "kode": "63538fe6ef330c13a05a3ed7e599d5f7",
+      "latitude": "3.00408",
+      "longitude": "107.78143",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "PULAU LAUT KAB. NATUNA",
+      "daylight": "0",
+      "kode": "cf67355a3333e6e143439161adc2d82e",
+      "latitude": "3.90878",
+      "longitude": "108.20168",
+      "state": "KEPULAUAN RIAU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BATANGHARI",
+      "daylight": "0",
+      "kode": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+      "latitude": "-1.6195",
+      "longitude": "103.59813",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BUNGO",
+      "daylight": "0",
+      "kode": "26657d5ff9020d2abefe558796b99584",
+      "latitude": "-1.37869",
+      "longitude": "101.91867",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KERINCI",
+      "daylight": "0",
+      "kode": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+      "latitude": "-2.19158",
+      "longitude": "101.61823",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MERANGIN",
+      "daylight": "0",
+      "kode": "ed3d2c21991e3bef5e069713af9fa6ca",
+      "latitude": "-2.13398",
+      "longitude": "102.18101",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUARO JAMBI",
+      "daylight": "0",
+      "kode": "ac627ab1ccbdb62ec96e702f07f6425b",
+      "latitude": "-1.71998",
+      "longitude": "103.5736",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SAROLANGUN",
+      "daylight": "0",
+      "kode": "f899139df5e1059396431415e770c6dd",
+      "latitude": "-2.30924",
+      "longitude": "102.66533",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANJUNG JABUNG BARAT",
+      "daylight": "0",
+      "kode": "38b3eff8baf56627478ec76a704e9b52",
+      "latitude": "-1.15351",
+      "longitude": "103.08667",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANJUNG JABUNG TIMUR",
+      "daylight": "0",
+      "kode": "ec8956637a99787bd197eacd77acce5e",
+      "latitude": "-1.14171",
+      "longitude": "103.9221",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TEBO",
+      "daylight": "0",
+      "kode": "6974ce5ac660610b44d9b9fed0ff9548",
+      "latitude": "-1.4614",
+      "longitude": "102.4031",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA JAMBI",
+      "daylight": "0",
+      "kode": "c9e1074f5b3f9fc8ea15d152add07294",
+      "latitude": "-1.61775",
+      "longitude": "103.59932",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SUNGAI PENUH",
+      "daylight": "0",
+      "kode": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+      "latitude": "-2.06666",
+      "longitude": "101.38925",
+      "state": "JAMBI",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BENGKULU SELATAN",
+      "daylight": "0",
+      "kode": "f0935e4cd5920aa6c7c996a5ee53a70f",
+      "latitude": "-4.46801",
+      "longitude": "102.92194",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BENGKULU TENGAH",
+      "daylight": "0",
+      "kode": "a97da629b098b75c294dffdc3e463904",
+      "latitude": "-3.73318",
+      "longitude": "102.45048",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BENGKULU UTARA",
+      "daylight": "0",
+      "kode": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+      "latitude": "-3.37562",
+      "longitude": "101.84096",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KAUR",
+      "daylight": "0",
+      "kode": "2723d092b63885e0d7c260cc007e8b9d",
+      "latitude": "-4.78537",
+      "longitude": "103.33454",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPAHIANG",
+      "daylight": "0",
+      "kode": "5f93f983524def3dca464469d2cf9f3e",
+      "latitude": "-3.64489",
+      "longitude": "102.57773",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LEBONG",
+      "daylight": "0",
+      "kode": "698d51a19d8a121ce581499d7b701668",
+      "latitude": "-3.22055",
+      "longitude": "102.33319",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUKOMUKO",
+      "daylight": "0",
+      "kode": "7f6ffaa6bb0b408017b62254211691b5",
+      "latitude": "-2.82605",
+      "longitude": "101.42064",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. REJANG LEBONG",
+      "daylight": "0",
+      "kode": "73278a4a86960eeb576a8fd4c9ec6997",
+      "latitude": "-3.45207",
+      "longitude": "102.71341",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SELUMA",
+      "daylight": "0",
+      "kode": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+      "latitude": "-4.06729",
+      "longitude": "102.56603",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BENGKULU",
+      "daylight": "0",
+      "kode": "2b44928ae11fb9384c4cf38708677c48",
+      "latitude": "-3.79116",
+      "longitude": "102.26312",
+      "state": "BENGKULU",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANYUASIN",
+      "daylight": "0",
+      "kode": "c45147dee729311ef5b5c3003946c48f",
+      "latitude": "-2.86838",
+      "longitude": "104.38034",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. EMPAT LAWANG",
+      "daylight": "0",
+      "kode": "eb160de1de89d9058fcb0b968dbbbd68",
+      "latitude": "-3.75787",
+      "longitude": "102.93602",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAHAT",
+      "daylight": "0",
+      "kode": "5ef059938ba799aaa845e1c2e8a762bd",
+      "latitude": "-3.76573",
+      "longitude": "103.51157",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUARA ENIM",
+      "daylight": "0",
+      "kode": "07e1cd7dca89a1678042477183b7ac3f",
+      "latitude": "-3.63436",
+      "longitude": "103.77871",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUSI BANYUASIN",
+      "daylight": "0",
+      "kode": "da4fb5c6e93e74d3df8527599fa62642",
+      "latitude": "-2.25341",
+      "longitude": "103.80614",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUSI RAWAS",
+      "daylight": "0",
+      "kode": "4c56ff4ce4aaf9573aa5dff913df997a",
+      "latitude": "-2.77824",
+      "longitude": "102.85862",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUSI RAWAS UTARA",
+      "daylight": "0",
+      "kode": "a0a080f42e6f13b3a2df133f073095dd",
+      "latitude": "-2.77824",
+      "longitude": "102.85862",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. OGAN ILIR",
+      "daylight": "0",
+      "kode": "202cb962ac59075b964b07152d234b70",
+      "latitude": "-3.25158",
+      "longitude": "104.67357",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. OGAN KOMERING ILIR",
+      "daylight": "0",
+      "kode": "c8ffe9a587b126f152ed3d89a146b445",
+      "latitude": "-3.17019",
+      "longitude": "105.29276",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. OGAN KOMERING ULU",
+      "daylight": "0",
+      "kode": "3def184ad8f4755ff269862ea77393dd",
+      "latitude": "-4.09698",
+      "longitude": "104.09521",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. OGAN KOMERING ULU SELATAN",
+      "daylight": "0",
+      "kode": "069059b7ef840f0c74a814ec9237b6ec",
+      "latitude": "-4.57553",
+      "longitude": "103.68552",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. OGAN KOMERING ULU TIMUR",
+      "daylight": "0",
+      "kode": "ec5decca5ed3d6b8079e2e7e7bacc9f2",
+      "latitude": "-4.06207",
+      "longitude": "104.47149",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PENUKAL ABAB LEMATANG ILIR",
+      "daylight": "0",
+      "kode": "76dc611d6ebaafc66cc0879c71b5db5c",
+      "latitude": "-3.26909",
+      "longitude": "103.82282",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA LUBUKLINGGAU",
+      "daylight": "0",
+      "kode": "d1f491a404d6854880943e5c3cd9ca25",
+      "latitude": "-3.26931",
+      "longitude": "102.91043",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PAGAR ALAM",
+      "daylight": "0",
+      "kode": "9b8619251a19057cff70779273e95aa6",
+      "latitude": "-4.03843",
+      "longitude": "103.24557",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PALEMBANG",
+      "daylight": "0",
+      "kode": "1afa34a7f984eeabdbb0a7d494132ee5",
+      "latitude": "-2.98482",
+      "longitude": "104.75893",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PRABUMULIH",
+      "daylight": "0",
+      "kode": "65ded5353c5ee48d0b7d48c591b8f430",
+      "latitude": "-3.44074",
+      "longitude": "104.23551",
+      "state": "SUMATERA SELATAN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGKA",
+      "daylight": "0",
+      "kode": "9fc3d7152ba9336a670e36d0ed79bc43",
+      "latitude": "-1.90355",
+      "longitude": "105.92118",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGKA BARAT",
+      "daylight": "0",
+      "kode": "02522a2b2726fb0a03bb19f2d8d9524d",
+      "latitude": "-2.05205",
+      "longitude": "105.21071",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGKA SELATAN",
+      "daylight": "0",
+      "kode": "7f1de29e6da19d22b51c68001e7e0e54",
+      "latitude": "-2.75275",
+      "longitude": "106.29509",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGKA TENGAH",
+      "daylight": "0",
+      "kode": "42a0e188f5033bc65bf8d78622277c4e",
+      "latitude": "-2.32695",
+      "longitude": "106.07483",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BELITUNG",
+      "daylight": "0",
+      "kode": "3988c7f88ebcb58c6ce932b957b6f332",
+      "latitude": "-3.04624",
+      "longitude": "107.76548",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BELITUNG TIMUR",
+      "daylight": "0",
+      "kode": "013d407166ec4fa56eb1e1f8cbe183b9",
+      "latitude": "-2.87886",
+      "longitude": "108.05279",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PANGKAL PINANG",
+      "daylight": "0",
+      "kode": "e00da03b685a0dd18fb6a08af0923de0",
+      "latitude": "-2.11043",
+      "longitude": "106.11257",
+      "state": "KEPULAUAN BANGKA BELITUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMPUNG TENGAH",
+      "daylight": "0",
+      "kode": "1385974ed5904a438616ff7bdb3f7439",
+      "latitude": "-4.90829",
+      "longitude": "105.21145",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMPUNG UTARA",
+      "daylight": "0",
+      "kode": "0f28b5d49b3020afeecd95b4009adf4c",
+      "latitude": "-4.83967",
+      "longitude": "104.8822",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMPUNG SELATAN",
+      "daylight": "0",
+      "kode": "a8baa56554f96369ab93e4f3bb068c22",
+      "latitude": "-5.72207",
+      "longitude": "105.61525",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMPUNG BARAT",
+      "daylight": "0",
+      "kode": "903ce9225fca3e988c2af215d4e544d3",
+      "latitude": "-5.05192",
+      "longitude": "104.30688",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMPUNG TIMUR",
+      "daylight": "0",
+      "kode": "0a09c8844ba8f0936c20bd791130d6b6",
+      "latitude": "-5.14226",
+      "longitude": "105.70156",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MESUJI",
+      "daylight": "0",
+      "kode": "2b24d495052a8ce66358eb576b8912c8",
+      "latitude": "-3.86039",
+      "longitude": "105.45733",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PESAWARAN",
+      "daylight": "0",
+      "kode": "a5e00132373a7031000fd987a3c9f87b",
+      "latitude": "-5.39715",
+      "longitude": "105.06552",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PESISIR BARAT",
+      "daylight": "0",
+      "kode": "8d5e957f297893487bd98fa830fa6413",
+      "latitude": "-5.03316",
+      "longitude": "103.75869",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PRINGSEWU",
+      "daylight": "0",
+      "kode": "47d1e990583c9c67424d369f3414728e",
+      "latitude": "-5.36713",
+      "longitude": "104.93197",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TULANG BAWANG",
+      "daylight": "0",
+      "kode": "f2217062e9a397a1dca429e7d70bc6ca",
+      "latitude": "-4.36908",
+      "longitude": "105.24026",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TULANG BAWANG BARAT",
+      "daylight": "0",
+      "kode": "7ef605fc8dba5425d6965fbd4c8fbe1f",
+      "latitude": "-4.4833",
+      "longitude": "105.09112",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANGGAMUS",
+      "daylight": "0",
+      "kode": "a8f15eda80c50adb0e71943adc8015cf",
+      "latitude": "-5.42624",
+      "longitude": "104.72779",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. WAY KANAN",
+      "daylight": "0",
+      "kode": "37a749d808e46495a8da1e5352d03cae",
+      "latitude": "-4.37482",
+      "longitude": "104.82156",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BANDAR LAMPUNG",
+      "daylight": "0",
+      "kode": "b3e3e393c77e35a4a3f3cbd1e429b5dc",
+      "latitude": "-5.42239",
+      "longitude": "105.25997",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA METRO",
+      "daylight": "0",
+      "kode": "1d7f7abc18fcb43975065399b0d1e48e",
+      "latitude": "-5.11893",
+      "longitude": "105.30759",
+      "state": "LAMPUNG",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LEBAK",
+      "daylight": "0",
+      "kode": "2a79ea27c279e471f4d180b08d62b00a",
+      "latitude": "-6.34474",
+      "longitude": "106.23506",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PANDEGLANG",
+      "daylight": "0",
+      "kode": "1c9ac0159c94d8d0cbedc973445af2da",
+      "latitude": "-6.3169",
+      "longitude": "106.1154",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SERANG",
+      "daylight": "0",
+      "kode": "6c4b761a28b734fe93831e3fb400ce87",
+      "latitude": "-6.10525",
+      "longitude": "106.14743",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANGERANG",
+      "daylight": "0",
+      "kode": "06409663226af2f3114485aa4e0a23b4",
+      "latitude": "-6.17683",
+      "longitude": "106.63806",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA CILEGON",
+      "daylight": "0",
+      "kode": "140f6969d5213fd0ece03148e62e461e",
+      "latitude": "-6.02594",
+      "longitude": "106.0468",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SERANG",
+      "daylight": "0",
+      "kode": "b73ce398c39f506af761d2277d853a92",
+      "latitude": "-6.10525",
+      "longitude": "106.14743",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TANGERANG",
+      "daylight": "0",
+      "kode": "bd4c9ab730f5513206b999ec0d90d1fb",
+      "latitude": "-6.17683",
+      "longitude": "106.63806",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TANGERANG SELATAN",
+      "daylight": "0",
+      "kode": "82aa4b0af34c2313a562076992e50aa3",
+      "latitude": "-6.29526",
+      "longitude": "106.71094",
+      "state": "BANTEN",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANDUNG",
+      "daylight": "0",
+      "kode": "0777d5c17d4066b82ab86dff8a46af6f",
+      "latitude": "-6.91391",
+      "longitude": "107.61029",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANDUNG BARAT",
+      "daylight": "0",
+      "kode": "fa7cdfad1a5aaf8370ebeda47a1ff1c3",
+      "latitude": "-6.86265",
+      "longitude": "107.50231",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BEKASI",
+      "daylight": "0",
+      "kode": "9766527f2b5d3e95d4a733fcfb77bd7e",
+      "latitude": "-6.25665",
+      "longitude": "106.99129",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOGOR",
+      "daylight": "0",
+      "kode": "7e7757b1e12abcb736ab9a754ffb617a",
+      "latitude": "-6.60016",
+      "longitude": "106.80496",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. CIAMIS",
+      "daylight": "0",
+      "kode": "5878a7ab84fb43402106c575658472fa",
+      "latitude": "-7.32616",
+      "longitude": "108.35332",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. CIANJUR",
+      "daylight": "0",
+      "kode": "006f52e9102a8d3be2fe5614f42ba989",
+      "latitude": "-6.8189",
+      "longitude": "107.13055",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. CIREBON",
+      "daylight": "0",
+      "kode": "3636638817772e42b59d74cff571fbb3",
+      "latitude": "-6.71299",
+      "longitude": "108.56604",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GARUT",
+      "daylight": "0",
+      "kode": "149e9677a5989fd342ae44213df68868",
+      "latitude": "-7.18644",
+      "longitude": "107.88912",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. INDRAMAYU",
+      "daylight": "0",
+      "kode": "a4a042cf4fd6bfb47701cbc8a1653ada",
+      "latitude": "-6.34801",
+      "longitude": "108.32969",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KARAWANG",
+      "daylight": "0",
+      "kode": "1ff8a7b5dc7a7d1f0ed65aaa29c04b1e",
+      "latitude": "-6.25205",
+      "longitude": "107.35212",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUNINGAN",
+      "daylight": "0",
+      "kode": "f7e6c85504ce6e82442c770f7c8606f0",
+      "latitude": "-6.97206",
+      "longitude": "108.4862",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAJALENGKA",
+      "daylight": "0",
+      "kode": "bf8229696f7a3bb4700cfddef19fa23f",
+      "latitude": "-6.83486",
+      "longitude": "108.24713",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PANGANDARAN",
+      "daylight": "0",
+      "kode": "82161242827b703e6acf9c726942a1e4",
+      "latitude": "-7.69831",
+      "longitude": "108.65719",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PURWAKARTA",
+      "daylight": "0",
+      "kode": "38af86134b65d0f10fe33d30dd76442e",
+      "latitude": "-6.53209",
+      "longitude": "107.46252",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUBANG",
+      "daylight": "0",
+      "kode": "96da2f590cd7246bbde0051047b0d6f7",
+      "latitude": "-6.55192",
+      "longitude": "107.74985",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUKABUMI",
+      "daylight": "0",
+      "kode": "8f85517967795eeef66c225f7883bdcb",
+      "latitude": "-6.90389",
+      "longitude": "106.93749",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMEDANG",
+      "daylight": "0",
+      "kode": "8f53295a73878494e9bc8dd6c3c7104f",
+      "latitude": "-6.89187",
+      "longitude": "108.04725",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TASIKMALAYA",
+      "daylight": "0",
+      "kode": "045117b0e0a11a242b9765e79cbf113f",
+      "latitude": "-7.33709",
+      "longitude": "108.21851",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BANDUNG",
+      "daylight": "0",
+      "kode": "fc221309746013ac554571fbd180e1c8",
+      "latitude": "-6.91391",
+      "longitude": "107.61029",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BANJAR",
+      "daylight": "0",
+      "kode": "4c5bde74a8f110656874902f07378009",
+      "latitude": "-7.3695",
+      "longitude": "108.53494",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BEKASI",
+      "daylight": "0",
+      "kode": "cedebb6e872f539bef8c3f919874e9d7",
+      "latitude": "-6.25665",
+      "longitude": "106.99129",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BOGOR",
+      "daylight": "0",
+      "kode": "6cdd60ea0045eb7a6ec44c54d29ed402",
+      "latitude": "-6.60016",
+      "longitude": "106.80496",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA CIMAHI",
+      "daylight": "0",
+      "kode": "eecca5b6365d9607ee5a9d336962c534",
+      "latitude": "-6.87961",
+      "longitude": "107.54094",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA CIREBON",
+      "daylight": "0",
+      "kode": "9872ed9fc22fc182d371c3e9ed316094",
+      "latitude": "-6.71299",
+      "longitude": "108.56604",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA DEPOK",
+      "daylight": "0",
+      "kode": "31fefc0e570cb3860f2a6d4b38c6490d",
+      "latitude": "-6.36095",
+      "longitude": "106.83332",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SUKABUMI",
+      "daylight": "0",
+      "kode": "9dcb88e0137649590b755372b040afad",
+      "latitude": "-6.90389",
+      "longitude": "106.93749",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TASIKMALAYA",
+      "daylight": "0",
+      "kode": "a2557a7b2e94197ff767970b67041697",
+      "latitude": "-6.91553",
+      "longitude": "107.63205",
+      "state": "JAWA BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA JAKARTA",
+      "daylight": "0",
+      "kode": "58a2fc6ed39fd083f55d4182bf88826d",
+      "latitude": "-6.17148",
+      "longitude": "106.82649",
+      "state": "DKI JAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN SERIBU",
+      "daylight": "0",
+      "kode": "cfecdb276f634854f3ef915e2e980c31",
+      "latitude": "-5.79667",
+      "longitude": "106.49628",
+      "state": "DKI JAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANJARNEGARA",
+      "daylight": "0",
+      "kode": "084b6fbb10729ed4da8c3d3f5a3ae7c9",
+      "latitude": "-7.39978",
+      "longitude": "109.68112",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANYUMAS",
+      "daylight": "0",
+      "kode": "85d8ce590ad8981ca2c8286f79f59954",
+      "latitude": "-7.52381",
+      "longitude": "109.29381",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BATANG",
+      "daylight": "0",
+      "kode": "0e65972dce68dad4d52d063967f0a705",
+      "latitude": "-6.90722",
+      "longitude": "109.73081",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BLORA",
+      "daylight": "0",
+      "kode": "84d9ee44e457ddef7f2c4f25dc8fa865",
+      "latitude": "-6.96975",
+      "longitude": "111.40327",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOYOLALI",
+      "daylight": "0",
+      "kode": "3644a684f98ea8fe223c713b77189a77",
+      "latitude": "-7.50397",
+      "longitude": "110.5773",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BREBES",
+      "daylight": "0",
+      "kode": "757b505cfd34c64c85ca5b5690ee5293",
+      "latitude": "-6.61662",
+      "longitude": "110.69192",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. CILACAP",
+      "daylight": "0",
+      "kode": "854d6fae5ee42911677c739ee1734486",
+      "latitude": "-6.96743",
+      "longitude": "110.3987",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DEMAK",
+      "daylight": "0",
+      "kode": "e2c0be24560d78c5e599c2a9c9d0bbd2",
+      "latitude": "-6.89998",
+      "longitude": "110.6329",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GROBOGAN",
+      "daylight": "0",
+      "kode": "274ad4786c3abca69fa097b85867d9a4",
+      "latitude": "-7.02328",
+      "longitude": "110.92145",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JEPARA",
+      "daylight": "0",
+      "kode": "eae27d77ca20db309e056e3d2dcd7d69",
+      "latitude": "-6.57541",
+      "longitude": "110.68315",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KARANGANYAR",
+      "daylight": "0",
+      "kode": "7eabe3a1649ffa2b3ff8c02ebfd5659f",
+      "latitude": "-7.60855",
+      "longitude": "110.98257",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEBUMEN",
+      "daylight": "0",
+      "kode": "69adc1e107f7f7d035d7baf04342e1ca",
+      "latitude": "-7.69519",
+      "longitude": "109.68361",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KENDAL",
+      "daylight": "0",
+      "kode": "091d584fced301b442654dd8c23b3fc9",
+      "latitude": "-6.92165",
+      "longitude": "110.20445",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KLATEN",
+      "daylight": "0",
+      "kode": "b1d10e7bafa4421218a51b1e1f1b0ba2",
+      "latitude": "-7.70022",
+      "longitude": "110.60496",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUDUS",
+      "daylight": "0",
+      "kode": "6f3ef77ac0e3619e98159e9b6febf557",
+      "latitude": "-6.82424",
+      "longitude": "110.83513",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAGELANG",
+      "daylight": "0",
+      "kode": "eb163727917cbba1eea208541a643e74",
+      "latitude": "-7.46077",
+      "longitude": "110.22256",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PATI",
+      "daylight": "0",
+      "kode": "1534b76d325a8f591b52d302e7181331",
+      "latitude": "-6.75213",
+      "longitude": "111.02547",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PEKALONGAN",
+      "daylight": "0",
+      "kode": "979d472a84804b9f647bc185a877a8b5",
+      "latitude": "-6.88884",
+      "longitude": "109.66632",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PEMALANG",
+      "daylight": "0",
+      "kode": "ca46c1b9512a7a8315fa3c5a946e8265",
+      "latitude": "-6.87279",
+      "longitude": "109.37181",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PURBALINGGA",
+      "daylight": "0",
+      "kode": "3b8a614226a953a8cd9526fca6fe9ba5",
+      "latitude": "-7.39881",
+      "longitude": "109.37441",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PURWOREJO",
+      "daylight": "0",
+      "kode": "45fbc6d3e05ebd93369ce542e8f2322d",
+      "latitude": "-7.72223",
+      "longitude": "110.0312",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. REMBANG",
+      "daylight": "0",
+      "kode": "63dc7ed1010d3c3b8269faf0ba7491d4",
+      "latitude": "-6.70619",
+      "longitude": "111.36528",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SEMARANG",
+      "daylight": "0",
+      "kode": "e96ed478dab8595a7dbda4cbcbee168f",
+      "latitude": "-6.98748",
+      "longitude": "110.37028",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SRAGEN",
+      "daylight": "0",
+      "kode": "c0e190d8267e36708f955d7ab048990d",
+      "latitude": "-7.43218",
+      "longitude": "111.00015",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUKOHARJO",
+      "daylight": "0",
+      "kode": "ec8ce6abb3e952a85b8551ba726a1227",
+      "latitude": "-7.68747",
+      "longitude": "110.84493",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TEGAL",
+      "daylight": "0",
+      "kode": "060ad92489947d410d897474079c1477",
+      "latitude": "-6.86751",
+      "longitude": "109.1365",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TEMANGGUNG",
+      "daylight": "0",
+      "kode": "bcbe3365e6ac95ea2c0343a2395834dd",
+      "latitude": "-7.31978",
+      "longitude": "110.18157",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. WONOGIRI",
+      "daylight": "0",
+      "kode": "115f89503138416a242f40fb7d7f338e",
+      "latitude": "-7.81458",
+      "longitude": "110.96132",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. WONOSOBO",
+      "daylight": "0",
+      "kode": "13fe9d84310e77f13a6d184dbf1232f3",
+      "latitude": "-7.36914",
+      "longitude": "109.92716",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MAGELANG",
+      "daylight": "0",
+      "kode": "d1c38a09acc34845c6be3a127a5aacaf",
+      "latitude": "-7.46077",
+      "longitude": "110.22256",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PEKALONGAN",
+      "daylight": "0",
+      "kode": "9cfdf10e8fc047a44b08ed031e1f0ed1",
+      "latitude": "-6.88884",
+      "longitude": "109.66632",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SALATIGA",
+      "daylight": "0",
+      "kode": "705f2172834666788607efbfca35afb3",
+      "latitude": "-7.32962",
+      "longitude": "110.49558",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SEMARANG",
+      "daylight": "0",
+      "kode": "74db120f0a8e5646ef5a30154e9f6deb",
+      "latitude": "-6.98748",
+      "longitude": "110.37028",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SURAKARTA",
+      "daylight": "0",
+      "kode": "57aeee35c98205091e18d1140e9f38cf",
+      "latitude": "-7.55737",
+      "longitude": "110.8222",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TEGAL",
+      "daylight": "0",
+      "kode": "6da9003b743b65f4c0ccd295cc484e57",
+      "latitude": "-6.86751",
+      "longitude": "109.1365",
+      "state": "JAWA TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANTUL",
+      "daylight": "0",
+      "kode": "9b04d152845ec0a378394003c96da594",
+      "latitude": "-7.88675",
+      "longitude": "110.32996",
+      "state": "D.I. YOGYAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GUNUNGKIDUL",
+      "daylight": "0",
+      "kode": "be83ab3ecd0db773eb2dc1b0a17836a1",
+      "latitude": "-7.97146",
+      "longitude": "110.59883",
+      "state": "D.I. YOGYAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KULON PROGO",
+      "daylight": "0",
+      "kode": "e165421110ba03099a1c0393373c5b43",
+      "latitude": "-7.8485",
+      "longitude": "110.16509",
+      "state": "D.I. YOGYAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SLEMAN",
+      "daylight": "0",
+      "kode": "289dff07669d7a23de0ef88d2f7129e7",
+      "latitude": "-7.6898",
+      "longitude": "110.34284",
+      "state": "D.I. YOGYAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA YOGYAKARTA",
+      "daylight": "0",
+      "kode": "577ef1154f3240ad5b9b413aa7346a1e",
+      "latitude": "-7.80371",
+      "longitude": "110.3748",
+      "state": "D.I. YOGYAKARTA",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGKALAN",
+      "daylight": "0",
+      "kode": "01161aaa0b6d1345dd8fe4e481144d84",
+      "latitude": "-7.03382",
+      "longitude": "112.74409",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANYUWANGI",
+      "daylight": "0",
+      "kode": "539fd53b59e3bb12d203f45a912eeaf2",
+      "latitude": "-8.23647",
+      "longitude": "114.35851",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BLITAR",
+      "daylight": "0",
+      "kode": "ac1dd209cbcc5e5d1c6e28598e8cbbe8",
+      "latitude": "-8.09897",
+      "longitude": "112.16452",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOJONEGORO",
+      "daylight": "0",
+      "kode": "555d6702c950ecb729a966504af0a635",
+      "latitude": "-7.16834",
+      "longitude": "111.89217",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BONDOWOSO",
+      "daylight": "0",
+      "kode": "335f5352088d7d9bf74191e006d8e24c",
+      "latitude": "-7.90773",
+      "longitude": "113.81266",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GRESIK",
+      "daylight": "0",
+      "kode": "f340f1b1f65b6df5b5e3f94d95b11daf",
+      "latitude": "-7.16811",
+      "longitude": "112.64539",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JEMBER",
+      "daylight": "0",
+      "kode": "e4a6222cdb5b34375400904f03d8e6a5",
+      "latitude": "-8.19678",
+      "longitude": "113.63455",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JOMBANG",
+      "daylight": "0",
+      "kode": "cb70ab375662576bd1ac5aaf16b3fca4",
+      "latitude": "-7.54373",
+      "longitude": "112.21767",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEDIRI",
+      "daylight": "0",
+      "kode": "9188905e74c28e489b44e954ec0b9bca",
+      "latitude": "-7.82577",
+      "longitude": "112.01068",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMONGAN",
+      "daylight": "0",
+      "kode": "0266e33d3f546cb5436a10798e657d97",
+      "latitude": "-7.10837",
+      "longitude": "112.39803",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LUMAJANG",
+      "daylight": "0",
+      "kode": "38db3aed920cf82ab059bfccbd02be6a",
+      "latitude": "-8.12643",
+      "longitude": "113.22592",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MADIUN",
+      "daylight": "0",
+      "kode": "3cec07e9ba5f5bb252d13f5f431e4bbb",
+      "latitude": "-7.59138",
+      "longitude": "111.57233",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAGETAN",
+      "daylight": "0",
+      "kode": "621bf66ddb7c962aa0d22ac97d69b793",
+      "latitude": "-7.94212",
+      "longitude": "112.61681",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALANG",
+      "daylight": "0",
+      "kode": "077e29b11be80ab57e1a2ecabb7da330",
+      "latitude": "-7.98122",
+      "longitude": "112.62875",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MOJOKERTO",
+      "daylight": "0",
+      "kode": "6c9882bbac1c7093bd25041881277658",
+      "latitude": "-7.46403",
+      "longitude": "112.4323",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NGANJUK",
+      "daylight": "0",
+      "kode": "19f3cd308f1455b3fa09a282e0d496f4",
+      "latitude": "-7.60054",
+      "longitude": "111.92049",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NGAWI",
+      "daylight": "0",
+      "kode": "03c6b06952c750899bb03d998e631860",
+      "latitude": "-7.42374",
+      "longitude": "111.42575",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PACITAN",
+      "daylight": "0",
+      "kode": "c24cd76e1ce41366a4bbe8a49b02a028",
+      "latitude": "-8.2259",
+      "longitude": "111.07148",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PAMEKASAN",
+      "daylight": "0",
+      "kode": "c52f1bd66cc19d05628bd8bf27af3ad6",
+      "latitude": "-7.15245",
+      "longitude": "113.46691",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PASURUAN",
+      "daylight": "0",
+      "kode": "fe131d7f5a6b38b23cc967316c13dae2",
+      "latitude": "-7.56726",
+      "longitude": "112.73656",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PONOROGO",
+      "daylight": "0",
+      "kode": "f718499c1c8cef6730f9fd03c8125cab",
+      "latitude": "-7.86507",
+      "longitude": "111.45168",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PROBOLINGGO",
+      "daylight": "0",
+      "kode": "d96409bf894217686ba124d7356686c9",
+      "latitude": "-7.76193",
+      "longitude": "113.23463",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SAMPANG",
+      "daylight": "0",
+      "kode": "502e4a16930e414107ee22b6198c578f",
+      "latitude": "-7.18413",
+      "longitude": "113.26334",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIDOARJO",
+      "daylight": "0",
+      "kode": "cfa0860e83a4c3a763a7e62d825349f7",
+      "latitude": "-7.46038",
+      "longitude": "112.71749",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SITUBONDO",
+      "daylight": "0",
+      "kode": "a4f23670e1833f3fdb077ca70bbd5d66",
+      "latitude": "-7.77124",
+      "longitude": "113.99715",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMENEP",
+      "daylight": "0",
+      "kode": "b1a59b315fc9a3002ce38bbe070ec3f5",
+      "latitude": "-7.0067",
+      "longitude": "113.85959",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TRENGGALEK",
+      "daylight": "0",
+      "kode": "36660e59856b4de58a219bcf4e27eba3",
+      "latitude": "-8.02394",
+      "longitude": "111.70732",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TUBAN",
+      "daylight": "0",
+      "kode": "8c19f571e251e61cb8dd3612f26d5ecf",
+      "latitude": "-6.90069",
+      "longitude": "112.04858",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TULUNGAGUNG",
+      "daylight": "0",
+      "kode": "d6baf65e0b240ce177cf70da146c8dc8",
+      "latitude": "-8.07314",
+      "longitude": "111.90309",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BATU",
+      "daylight": "0",
+      "kode": "e56954b4f6347e897f954495eab16a88",
+      "latitude": "-7.86884",
+      "longitude": "112.51974",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BLITAR",
+      "daylight": "0",
+      "kode": "f7664060cc52bc6f3d620bcedc94a4b6",
+      "latitude": "-8.09897",
+      "longitude": "112.16452",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA KEDIRI",
+      "daylight": "0",
+      "kode": "eda80a3d5b344bc40f3bc04f65b7a357",
+      "latitude": "-7.84937",
+      "longitude": "112.03005",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MADIUN",
+      "daylight": "0",
+      "kode": "8f121ce07d74717e0b1f21d122e04521",
+      "latitude": "-7.59138",
+      "longitude": "111.57233",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MALANG",
+      "daylight": "0",
+      "kode": "06138bc5af6023646ede0e1f7c1eac75",
+      "latitude": "-7.98122",
+      "longitude": "112.62875",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MOJOKERTO",
+      "daylight": "0",
+      "kode": "39059724f73a9969845dfe4146c5660e",
+      "latitude": "-7.46403",
+      "longitude": "112.4323",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PASURUAN",
+      "daylight": "0",
+      "kode": "7f100b7b36092fb9b06dfb4fac360931",
+      "latitude": "-7.64108",
+      "longitude": "112.9063",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PROBOLINGGO",
+      "daylight": "0",
+      "kode": "7a614fd06c325499f1680b9896beedeb",
+      "latitude": "-7.96735",
+      "longitude": "112.6166",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SURABAYA",
+      "daylight": "0",
+      "kode": "4734ba6f3de83d861c3176a6273cac6d",
+      "latitude": "-7.2631",
+      "longitude": "112.73133",
+      "state": "JAWA TIMUR",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BADUNG",
+      "daylight": "0",
+      "kode": "d947bf06a885db0d477d707121934ff8",
+      "latitude": "-8.58019",
+      "longitude": "115.18121",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGLI",
+      "daylight": "0",
+      "kode": "63923f49e5241343aa7acb6a06a751e7",
+      "latitude": "-8.30525",
+      "longitude": "115.36012",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BULELENG",
+      "daylight": "0",
+      "kode": "db8e1af0cb3aca1ae2d0018624204529",
+      "latitude": "-8.11591",
+      "longitude": "115.09037",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GIANYAR",
+      "daylight": "0",
+      "kode": "20f07591c6fcb220ffe637cda29bb3f6",
+      "latitude": "-8.54327",
+      "longitude": "115.32469",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JEMBRANA",
+      "daylight": "0",
+      "kode": "07cdfd23373b17c6b337251c22b7ea57",
+      "latitude": "-8.35789",
+      "longitude": "114.63382",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KARANGASEM",
+      "daylight": "0",
+      "kode": "d395771085aab05244a4fb8fd91bf4ee",
+      "latitude": "-8.45989",
+      "longitude": "115.62609",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KLUNGKUNG",
+      "daylight": "0",
+      "kode": "92c8c96e4c37100777c7190b76d28233",
+      "latitude": "-8.5628",
+      "longitude": "115.41915",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TABANAN",
+      "daylight": "0",
+      "kode": "e3796ae838835da0b6f6ea37bcf8bcb7",
+      "latitude": "-8.50602",
+      "longitude": "115.13353",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA DENPASAR",
+      "daylight": "0",
+      "kode": "6a9aeddfc689c1d0e3b9ccc3ab651bc5",
+      "latitude": "-8.67321",
+      "longitude": "115.2034",
+      "state": "BALI",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BIMA",
+      "daylight": "0",
+      "kode": "0f49c89d1e7298bb9930789c8ed59d48",
+      "latitude": "-8.45017",
+      "longitude": "118.73304",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DOMPU",
+      "daylight": "0",
+      "kode": "46ba9f2a6976570b0353203ec4474217",
+      "latitude": "-8.53669",
+      "longitude": "118.46596",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LOMBOK BARAT",
+      "daylight": "0",
+      "kode": "0e01938fc48a2cfb5f2217fbfb00722d",
+      "latitude": "-8.48149",
+      "longitude": "116.08998",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LOMBOK TENGAH",
+      "daylight": "0",
+      "kode": "16a5cdae362b8d27a1d8f8c7b78b4330",
+      "latitude": "-8.71241",
+      "longitude": "116.26494",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LOMBOK TIMUR",
+      "daylight": "0",
+      "kode": "918317b57931b6b7a7d29490fe5ec9f9",
+      "latitude": "-8.52813",
+      "longitude": "116.56651",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LOMBOK UTARA",
+      "daylight": "0",
+      "kode": "48aedb8880cab8c45637abc7493ecddd",
+      "latitude": "-8.27713",
+      "longitude": "116.22608",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMBAWA",
+      "daylight": "0",
+      "kode": "839ab46820b524afda05122893c2fe8e",
+      "latitude": "-8.52214",
+      "longitude": "117.43062",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMBAWA BARAT",
+      "daylight": "0",
+      "kode": "f90f2aca5c640289d0a29417bcb63a37",
+      "latitude": "-8.74512",
+      "longitude": "116.83688",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BIMA",
+      "daylight": "0",
+      "kode": "9c838d2e45b2ad1094d42f4ef36764f6",
+      "latitude": "-8.45017",
+      "longitude": "118.73304",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MATARAM",
+      "daylight": "0",
+      "kode": "1700002963a49da13542e0726b7bb758",
+      "latitude": "-8.59488",
+      "longitude": "116.10539",
+      "state": "NUSA TENGGARA BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ALOR",
+      "daylight": "0",
+      "kode": "53c3bce66e43be4f209556518c2fcb54",
+      "latitude": "-8.217",
+      "longitude": "124.53158",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BELU",
+      "daylight": "0",
+      "kode": "6883966fd8f918a4aa29be29d2c386fb",
+      "latitude": "-9.52146",
+      "longitude": "124.92831",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ENDE",
+      "daylight": "0",
+      "kode": "49182f81e6a13cf5eaa496d51fea6406",
+      "latitude": "-8.79992",
+      "longitude": "121.59005",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. FLORES TIMUR",
+      "daylight": "0",
+      "kode": "d296c101daa88a51f6ca8cfc1ac79b50",
+      "latitude": "-8.29236",
+      "longitude": "122.92011",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUPANG",
+      "daylight": "0",
+      "kode": "9fd81843ad7f202f26c1a174c7357585",
+      "latitude": "-10.15716",
+      "longitude": "123.65956",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LEMBATA",
+      "daylight": "0",
+      "kode": "26e359e83860db1d11b6acca57d8ea88",
+      "latitude": "-8.37187",
+      "longitude": "123.43356",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALAKA",
+      "daylight": "0",
+      "kode": "ef0d3930a7b6c95bd2b32ed45989c61f",
+      "latitude": "-10.15716",
+      "longitude": "123.65956",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MANGGARAI",
+      "daylight": "0",
+      "kode": "94f6d7e04a4d452035300f18b984988c",
+      "latitude": "-8.6112",
+      "longitude": "120.46781",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MANGGARAI BARAT",
+      "daylight": "0",
+      "kode": "34ed066df378efacc9b924ec161e7639",
+      "latitude": "-8.77535",
+      "longitude": "120.15522",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MANGGARAI TIMUR",
+      "daylight": "0",
+      "kode": "577bcc914f9e55d5e4e4f82f9f00e7d4",
+      "latitude": "-8.62512",
+      "longitude": "120.61756",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NGADA",
+      "daylight": "0",
+      "kode": "11b9842e0a271ff252c1903e7132cd68",
+      "latitude": "-8.8507",
+      "longitude": "120.86031",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NAGEKEO",
+      "daylight": "0",
+      "kode": "37bc2f75bf1bcfe8450a1a41c200364c",
+      "latitude": "-8.76371",
+      "longitude": "121.1893",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ROTE NDAO",
+      "daylight": "0",
+      "kode": "496e05e1aea0a9c4655800e8a7b9ea28",
+      "latitude": "-10.72203",
+      "longitude": "123.06058",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SABU RAIJUA",
+      "daylight": "0",
+      "kode": "b2eb7349035754953b57a32e2841bda5",
+      "latitude": "-10.5249",
+      "longitude": "121.923",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIKKA",
+      "daylight": "0",
+      "kode": "8e98d81f8217304975ccb23337bb5761",
+      "latitude": "-8.61391",
+      "longitude": "122.2123",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMBA BARAT",
+      "daylight": "0",
+      "kode": "a8c88a0055f636e4a163a5e3d16adab7",
+      "latitude": "-9.62465",
+      "longitude": "119.41698",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMBA BARAT DAYA",
+      "daylight": "0",
+      "kode": "eddea82ad2755b24c4e168c5fc2ebd40",
+      "latitude": "-9.44873",
+      "longitude": "119.10704",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMBA TENGAH",
+      "daylight": "0",
+      "kode": "06eb61b839a0cefee4967c67ccb099dc",
+      "latitude": "-9.64419",
+      "longitude": "119.68499",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUMBA TIMUR",
+      "daylight": "0",
+      "kode": "9dfcd5e558dfa04aaf37f137a1d9d3e5",
+      "latitude": "-10.0117",
+      "longitude": "120.44802",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TIMOR TENGAH SELATAN",
+      "daylight": "0",
+      "kode": "950a4152c2b4aa3ad78bdd6b366cc179",
+      "latitude": "-9.8641",
+      "longitude": "124.27813",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TIMOR TENGAH UTARA",
+      "daylight": "0",
+      "kode": "158f3069a435b314a80bdcb024f8e422",
+      "latitude": "-9.06474",
+      "longitude": "124.81436",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA KUPANG",
+      "daylight": "0",
+      "kode": "758874998f5bd0c393da094e1967a72b",
+      "latitude": "-10.16938",
+      "longitude": "123.59833",
+      "state": "NUSA TENGGARA TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BENGKAYANG",
+      "daylight": "0",
+      "kode": "ad13a2a07ca4b7642959dc0c4c740ab6",
+      "latitude": "0.86438",
+      "longitude": "109.5102",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KAPUAS HULU",
+      "daylight": "0",
+      "kode": "3fe94a002317b5f9259f82690aeea4cd",
+      "latitude": "0.81763",
+      "longitude": "112.82859",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KAYONG UTARA",
+      "daylight": "0",
+      "kode": "5b8add2a5d98b1a652ea7fd72d942dac",
+      "latitude": "-1.05619",
+      "longitude": "110.1141",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KETAPANG",
+      "daylight": "0",
+      "kode": "432aca3a1e345e339f35a30c8f65edce",
+      "latitude": "-1.59233",
+      "longitude": "110.62701",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUBU RAYA",
+      "daylight": "0",
+      "kode": "8d3bba7425e7c98c50f52ca1b52d3735",
+      "latitude": "-0.25947",
+      "longitude": "109.51997",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LANDAK",
+      "daylight": "0",
+      "kode": "320722549d1751cf3f247855f937b982",
+      "latitude": "0.50212",
+      "longitude": "109.76348",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MELAWI",
+      "daylight": "0",
+      "kode": "caf1a3dfb505ffed0d024130f58c5cfa",
+      "latitude": "-0.63862",
+      "longitude": "111.77004",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MEMPAWAH",
+      "daylight": "0",
+      "kode": "5737c6ec2e0716f3d8a7a5c4e0de0d9a",
+      "latitude": "-0.05222",
+      "longitude": "109.35281",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SAMBAS",
+      "daylight": "0",
+      "kode": "bc6dc48b743dc5d013b1abaebd2faed2",
+      "latitude": "1.32348",
+      "longitude": "109.27849",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SANGGAU",
+      "daylight": "0",
+      "kode": "f2fc990265c712c49d51a18a32b39f0c",
+      "latitude": "0.24911",
+      "longitude": "110.43068",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SEKADAU",
+      "daylight": "0",
+      "kode": "89f0fd5c927d466d6ec9a21b9ac34ffa",
+      "latitude": "-0.14657",
+      "longitude": "110.90972",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SINTANG",
+      "daylight": "0",
+      "kode": "a666587afda6e89aec274a3657558a27",
+      "latitude": "0.07773",
+      "longitude": "111.5102",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PONTIANAK",
+      "daylight": "0",
+      "kode": "b83aac23b9528732c23cc7352950e880",
+      "latitude": "-0.01986",
+      "longitude": "109.3356",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SINGKAWANG",
+      "daylight": "0",
+      "kode": "cd00692c3bfe59267d5ecfac5310286c",
+      "latitude": "0.99052",
+      "longitude": "108.98788",
+      "state": "KALIMANTAN BARAT",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BALANGAN",
+      "daylight": "0",
+      "kode": "6faa8040da20ef399b63a72d0e4ab575",
+      "latitude": "-2.32098",
+      "longitude": "115.63735",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANJAR",
+      "daylight": "0",
+      "kode": "fe73f687e5bc5280214e0486b273a5f9",
+      "latitude": "-3.40549",
+      "longitude": "114.84696",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BARITO KUALA",
+      "daylight": "0",
+      "kode": "6da37dd3139aa4d9aa55b8d237ec5d4a",
+      "latitude": "-3.27599",
+      "longitude": "114.5927",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HULU SUNGAI SELATAN",
+      "daylight": "0",
+      "kode": "c042f4db68f23406c6cecf84a7ebb0fe",
+      "latitude": "-2.78085",
+      "longitude": "115.22983",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HULU SUNGAI TENGAH",
+      "daylight": "0",
+      "kode": "310dcbbf4cce62f762a2aaa148d556bd",
+      "latitude": "-2.61695",
+      "longitude": "115.5125",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HULU SUNGAI UTARA",
+      "daylight": "0",
+      "kode": "2f2b265625d76a6704b08093c652fd79",
+      "latitude": "-2.44898",
+      "longitude": "115.16142",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KOTABARU",
+      "daylight": "0",
+      "kode": "f9b902fc3289af4dd08de5d1de54f68f",
+      "latitude": "-2.92",
+      "longitude": "115.77352",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TABALONG",
+      "daylight": "0",
+      "kode": "6855456e2fe46a9d49d3d3af4f57443d",
+      "latitude": "-1.85621",
+      "longitude": "115.50079",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANAH BUMBU",
+      "daylight": "0",
+      "kode": "357a6fdf7642bf815a88822c447d9dc4",
+      "latitude": "-3.41042",
+      "longitude": "115.63867",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANAH LAUT",
+      "daylight": "0",
+      "kode": "819f46e52c25763a55cc642422644317",
+      "latitude": "-3.8851",
+      "longitude": "114.94096",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TAPIN",
+      "daylight": "0",
+      "kode": "04025959b191f8f9de3f924f0940515f",
+      "latitude": "-2.91896",
+      "longitude": "114.98158",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BANJARBARU",
+      "daylight": "0",
+      "kode": "40008b9a5380fcacce3976bf7c08af5b",
+      "latitude": "-3.44592",
+      "longitude": "114.80922",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BANJARMASIN",
+      "daylight": "0",
+      "kode": "3dd48ab31d016ffcbf3314df2b3cb9ce",
+      "latitude": "-3.32877",
+      "longitude": "114.59155",
+      "state": "KALIMANTAN SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BARITO SELATAN",
+      "daylight": "0",
+      "kode": "58238e9ae2dd305d79c2ebc8c1883422",
+      "latitude": "-1.48832",
+      "longitude": "115.02972",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BARITO TIMUR",
+      "daylight": "0",
+      "kode": "3ad7c2ebb96fcba7cda0cf54a2e802f5",
+      "latitude": "-2.12031",
+      "longitude": "115.15974",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BARITO UTARA",
+      "daylight": "0",
+      "kode": "b3967a0e938dc2a6340e258630febd5a",
+      "latitude": "-1.27203",
+      "longitude": "115.12189",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GUNUNG MAS",
+      "daylight": "0",
+      "kode": "d81f9c1be2e08964bf9f24b15f0e4900",
+      "latitude": "-1.01271",
+      "longitude": "113.53213",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KAPUAS",
+      "daylight": "0",
+      "kode": "13f9896df61279c928f19721878fac41",
+      "latitude": "-1.71093",
+      "longitude": "114.29839",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KATINGAN",
+      "daylight": "0",
+      "kode": "c5ff2543b53f4cc0ad3819a36752467b",
+      "latitude": "-1.11695",
+      "longitude": "112.95713",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KOTAWARINGIN BARAT",
+      "daylight": "0",
+      "kode": "01386bd6d8e091c2ab4c7c7de644d37b",
+      "latitude": "-2.55274",
+      "longitude": "111.74203",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KOTAWARINGIN TIMUR",
+      "daylight": "0",
+      "kode": "0bb4aec1710521c12ee76289d9440817",
+      "latitude": "-2.05879",
+      "longitude": "112.69952",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LAMANDAU",
+      "daylight": "0",
+      "kode": "9de6d14fff9806d4bcd1ef555be766cd",
+      "latitude": "-1.93182",
+      "longitude": "111.16154",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MURUNG RAYA",
+      "daylight": "0",
+      "kode": "efe937780e95574250dabe07151bdc23",
+      "latitude": "-0.13958",
+      "longitude": "114.41522",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PULANG PISAU",
+      "daylight": "0",
+      "kode": "371bce7dc83817b7893bcdeed13799b5",
+      "latitude": "-2.57697",
+      "longitude": "114.192",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUKAMARA",
+      "daylight": "0",
+      "kode": "138bb0696595b338afbab333c555292a",
+      "latitude": "-2.54368",
+      "longitude": "111.24205",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SERUYAN",
+      "daylight": "0",
+      "kode": "8dd48d6a2e2cad213179a3992c0be53c",
+      "latitude": "-1.96116",
+      "longitude": "112.14865",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PALANGKARAYA",
+      "daylight": "0",
+      "kode": "82cec96096d4281b7c95cd7e74623496",
+      "latitude": "-2.2061",
+      "longitude": "113.9119",
+      "state": "KALIMANTAN TENGAH",
+      "timezone": "7.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BERAU",
+      "daylight": "0",
+      "kode": "6c524f9d5d7027454a783c841250ba71",
+      "latitude": "1.9298",
+      "longitude": "117.29504",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUTAI BARAT",
+      "daylight": "0",
+      "kode": "fb7b9ffa5462084c5f4e7e85a093e6d7",
+      "latitude": "-0.43882",
+      "longitude": "115.84875",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUTAI KARTANEGARA",
+      "daylight": "0",
+      "kode": "aa942ab2bfa6ebda4840e7360ce6e7ef",
+      "latitude": "-0.35086",
+      "longitude": "116.51211",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KUTAI TIMUR",
+      "daylight": "0",
+      "kode": "c058f544c737782deacefa532d9add4c",
+      "latitude": "0.97437",
+      "longitude": "117.06933",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAHAKAM ULU",
+      "daylight": "0",
+      "kode": "e7b24b112a44fdd9ee93bdf998c6ca0e",
+      "latitude": "-0.49544",
+      "longitude": "117.14373",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PASER",
+      "daylight": "0",
+      "kode": "52720e003547c70561bf5e03b95aa99f",
+      "latitude": "-1.70414",
+      "longitude": "116.11446",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PENAJAM PASER UTARA",
+      "daylight": "0",
+      "kode": "c3e878e27f52e2a57ace4d9a76fd9acf",
+      "latitude": "-1.15717",
+      "longitude": "116.59261",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BALIKPAPAN",
+      "daylight": "0",
+      "kode": "00411460f7c92d2124a67ea0f4cb5f85",
+      "latitude": "-1.1589",
+      "longitude": "116.86834",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BONTANG",
+      "daylight": "0",
+      "kode": "bac9162b47c56fc8a4d2a519803d51b3",
+      "latitude": "0.05811",
+      "longitude": "117.4135",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SAMARINDA",
+      "daylight": "0",
+      "kode": "9be40cee5b0eee1462c82c6964087ff9",
+      "latitude": "-0.49544",
+      "longitude": "117.14373",
+      "state": "KALIMANTAN TIMUR",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BULUNGAN",
+      "daylight": "0",
+      "kode": "5ef698cd9fe650923ea331c15af3b160",
+      "latitude": "2.72512",
+      "longitude": "117.40145",
+      "state": "KALIMANTAN UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALINAU",
+      "daylight": "0",
+      "kode": "05049e90fa4f5039a8cadc6acbb4b2cc",
+      "latitude": "2.41942",
+      "longitude": "115.63357",
+      "state": "KALIMANTAN UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NUNUKAN",
+      "daylight": "0",
+      "kode": "cf004fdc76fa1a4f25f62e0eb5261ca3",
+      "latitude": "4.24264",
+      "longitude": "117.30056",
+      "state": "KALIMANTAN UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANA TIDUNG",
+      "daylight": "0",
+      "kode": "0c74b7f78409a4022a2c4c5a5ca3ee19",
+      "latitude": "3.48505",
+      "longitude": "116.99965",
+      "state": "KALIMANTAN UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TARAKAN",
+      "daylight": "0",
+      "kode": "d709f38ef758b5066ef31b18039b8ce5",
+      "latitude": "3.33944",
+      "longitude": "117.58722",
+      "state": "KALIMANTAN UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOALEMO",
+      "daylight": "0",
+      "kode": "41f1f19176d383480afa65d325c06ed0",
+      "latitude": "0.61081",
+      "longitude": "122.49272",
+      "state": "GORONTALO",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BONE BOLANGO",
+      "daylight": "0",
+      "kode": "24b16fede9a67c9251d3e7c7161c83ac",
+      "latitude": "0.4114",
+      "longitude": "123.17334",
+      "state": "GORONTALO",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GORONTALO",
+      "daylight": "0",
+      "kode": "ffd52f3c7e12435a724a8f30fddadd9c",
+      "latitude": "0.53707",
+      "longitude": "123.06184",
+      "state": "GORONTALO",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GORONTALO UTARA",
+      "daylight": "0",
+      "kode": "ad972f10e0800b49d76fed33a21f6698",
+      "latitude": "0.82272",
+      "longitude": "122.91858",
+      "state": "GORONTALO",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. POHUWATO",
+      "daylight": "0",
+      "kode": "f61d6947467ccd3aa5af24db320235dd",
+      "latitude": "0.52428",
+      "longitude": "121.79282",
+      "state": "GORONTALO",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA GORONTALO",
+      "daylight": "0",
+      "kode": "142949df56ea8ae0be8b5306971900a4",
+      "latitude": "0.53707",
+      "longitude": "123.06184",
+      "state": "GORONTALO",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANTAENG",
+      "daylight": "0",
+      "kode": "d34ab169b70c9dcd35e62896010cd9ff",
+      "latitude": "-5.55769",
+      "longitude": "119.97749",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BARRU",
+      "daylight": "0",
+      "kode": "8bf1211fd4b7b94528899de0a43b9fb3",
+      "latitude": "-4.4176",
+      "longitude": "119.61751",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BONE",
+      "daylight": "0",
+      "kode": "a02ffd91ece5e7efeb46db8f10a74059",
+      "latitude": "-4.64258",
+      "longitude": "120.01485",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BULUKUMBA",
+      "daylight": "0",
+      "kode": "bca82e41ee7b0833588399b1fcd177c7",
+      "latitude": "-5.43225",
+      "longitude": "120.20417",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ENREKANG",
+      "daylight": "0",
+      "kode": "00ec53c4682d36f5c4359f4ae7bd7ba1",
+      "latitude": "-3.5283",
+      "longitude": "119.77252",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. GOWA",
+      "daylight": "0",
+      "kode": "4f6ffe13a5d75b2d6a3923922b3922e5",
+      "latitude": "-5.29394",
+      "longitude": "119.68977",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JENEPONTO",
+      "daylight": "0",
+      "kode": "beed13602b9b0e6ecb5b568ff5058f07",
+      "latitude": "-5.64313",
+      "longitude": "119.7062",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN SELAYAR",
+      "daylight": "0",
+      "kode": "0584ce565c824b7b7f50282d9a19945b",
+      "latitude": "-6.08849",
+      "longitude": "120.49627",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LUWU",
+      "daylight": "0",
+      "kode": "dc912a253d1e9ba40e2c597ed2376640",
+      "latitude": "-3.21977",
+      "longitude": "120.29135",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LUWU TIMUR",
+      "daylight": "0",
+      "kode": "39461a19e9eddfb385ea76b26521ea48",
+      "latitude": "-2.58133",
+      "longitude": "121.07814",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LUWU UTARA",
+      "daylight": "0",
+      "kode": "8efb100a295c0c690931222ff4467bb8",
+      "latitude": "-2.55394",
+      "longitude": "120.31276",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAROS",
+      "daylight": "0",
+      "kode": "d9fc5b73a8d78fad3d6dffe419384e70",
+      "latitude": "-5.05413",
+      "longitude": "119.72206",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PANGKAJENE DAN KEPULAUAN",
+      "daylight": "0",
+      "kode": "c86a7ee3d8ef0b551ed58e354a836f2b",
+      "latitude": "-4.80773",
+      "longitude": "119.54276",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PINRANG",
+      "daylight": "0",
+      "kode": "a01a0380ca3c61428c26a231f0e49a09",
+      "latitude": "-3.78881",
+      "longitude": "119.65251",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIDENRENG RAPPANG",
+      "daylight": "0",
+      "kode": "5a4b25aaed25c2ee1b74de72dc03c14e",
+      "latitude": "-3.92624",
+      "longitude": "119.84504",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SINJAI",
+      "daylight": "0",
+      "kode": "f73b76ce8949fe29bf2a537cfa420e8f",
+      "latitude": "-5.22192",
+      "longitude": "120.17148",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SOPPENG",
+      "daylight": "0",
+      "kode": "70c639df5e30bdee440e4cdf599fec2b",
+      "latitude": "-4.34791",
+      "longitude": "119.88469",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TAKALAR",
+      "daylight": "0",
+      "kode": "28f0b864598a1291557bed248a998d4e",
+      "latitude": "-5.41029",
+      "longitude": "119.44589",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TANA TORAJA",
+      "daylight": "0",
+      "kode": "1543843a4723ed2ab08e18053ae6dc5b",
+      "latitude": "-3.12599",
+      "longitude": "119.86286",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TORAJA UTARA",
+      "daylight": "0",
+      "kode": "f8c1f23d6a8d8d7904fc0ea8e066b3bb",
+      "latitude": "-2.95696",
+      "longitude": "119.929",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. WAJO",
+      "daylight": "0",
+      "kode": "e46de7e1bcaaced9a54f1e9d0d2f800d",
+      "latitude": "-4.00034",
+      "longitude": "120.19193",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MAKASSAR",
+      "daylight": "0",
+      "kode": "b7b16ecf8ca53723593894116071700c",
+      "latitude": "-5.1465",
+      "longitude": "119.42293",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PALOPO",
+      "daylight": "0",
+      "kode": "352fe25daf686bdb4edca223c921acea",
+      "latitude": "-2.99742",
+      "longitude": "120.1966",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PAREPARE",
+      "daylight": "0",
+      "kode": "18d8042386b79e2c279fd162df0205c8",
+      "latitude": "-4.03409",
+      "longitude": "119.62605",
+      "state": "SULAWESI SELATAN",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOMBANA",
+      "daylight": "0",
+      "kode": "816b112c6105b3ebd537828a39af4818",
+      "latitude": "-4.69192",
+      "longitude": "121.82261",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BUTON",
+      "daylight": "0",
+      "kode": "69cb3ea317a32c4e6143e665fdb20b14",
+      "latitude": "-5.42145",
+      "longitude": "122.93438",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BUTON SELATAN",
+      "daylight": "0",
+      "kode": "bbf94b34eb32268ada57a3be5062fe7d",
+      "latitude": "-5.42145",
+      "longitude": "122.93438",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BUTON TENGAH",
+      "daylight": "0",
+      "kode": "4f4adcbf8c6f66dcfc8a3282ac2bf10a",
+      "latitude": "-5.42145",
+      "longitude": "122.93438",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BUTON UTARA",
+      "daylight": "0",
+      "kode": "bbcbff5c1f1ded46c25d28119a85c6c2",
+      "latitude": "-4.72151",
+      "longitude": "122.94659",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KOLAKA",
+      "daylight": "0",
+      "kode": "8cb22bdd0b7ba1ab13d742e22eed8da2",
+      "latitude": "-4.04052",
+      "longitude": "121.73311",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KOLAKA TIMUR",
+      "daylight": "0",
+      "kode": "f4f6dce2f3a0f9dada0c2b5b66452017",
+      "latitude": "-4.04052",
+      "longitude": "121.73311",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KOLAKA UTARA",
+      "daylight": "0",
+      "kode": "0d0fd7c6e093f7b804fa0150b875b868",
+      "latitude": "-3.35892",
+      "longitude": "120.94024",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KONAWE",
+      "daylight": "0",
+      "kode": "a96b65a721e561e1e3de768ac819ffbb",
+      "latitude": "-3.92881",
+      "longitude": "122.10904",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KONAWE KEPULAUAN",
+      "daylight": "0",
+      "kode": "1068c6e4c8051cfd4e9ea8072e3189e2",
+      "latitude": "-3.92881",
+      "longitude": "122.10904",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KONAWE SELATAN",
+      "daylight": "0",
+      "kode": "17d63b1625c816c22647a73e1482372b",
+      "latitude": "-4.27511",
+      "longitude": "122.48789",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KONAWE UTARA",
+      "daylight": "0",
+      "kode": "b9228e0962a78b84f3d5d92f4faa000b",
+      "latitude": "-3.4129",
+      "longitude": "122.0715",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUNA",
+      "daylight": "0",
+      "kode": "0deb1c54814305ca9ad266f53bc82511",
+      "latitude": "-4.92768",
+      "longitude": "122.52466",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MUNA BARAT",
+      "daylight": "0",
+      "kode": "66808e327dc79d135ba18e051673d906",
+      "latitude": "-4.92768",
+      "longitude": "122.52466",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. WAKATOBI",
+      "daylight": "0",
+      "kode": "42e7aaa88b48137a16a1acd04ed91125",
+      "latitude": "-5.31455",
+      "longitude": "123.58417",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BAU-BAU",
+      "daylight": "0",
+      "kode": "8fe0093bb30d6f8c31474bd0764e6ac0",
+      "latitude": "-5.46755",
+      "longitude": "122.63811",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA KENDARI",
+      "daylight": "0",
+      "kode": "41ae36ecb9b3eee609d05b90c14222fb",
+      "latitude": "-3.97245",
+      "longitude": "122.58526",
+      "state": "SULAWESI TENGGARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGGAI",
+      "daylight": "0",
+      "kode": "d1f255a373a3cef72e03aa9d980c7eca",
+      "latitude": "-0.83262",
+      "longitude": "122.87154",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGGAI KEPULAUAN",
+      "daylight": "0",
+      "kode": "7eacb532570ff6858afd2723755ff790",
+      "latitude": "-1.36708",
+      "longitude": "123.00323",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BANGGAI LAUT",
+      "daylight": "0",
+      "kode": "b6f0479ae87d244975439c6124592772",
+      "latitude": "-0.83262",
+      "longitude": "122.87154",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BUOL",
+      "daylight": "0",
+      "kode": "e0c641195b27425bb056ac56f8953d24",
+      "latitude": "1.04202",
+      "longitude": "121.56528",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DONGGALA",
+      "daylight": "0",
+      "kode": "f85454e8279be180185cac7d243c5eb3",
+      "latitude": "0.48748",
+      "longitude": "120.018",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MOROWALI",
+      "daylight": "0",
+      "kode": "faa9afea49ef2ff029a833cccc778fd0",
+      "latitude": "-2.0194",
+      "longitude": "120.96722",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MOROWALI UTARA",
+      "daylight": "0",
+      "kode": "3c7781a36bcd6cf08c11a970fbe0e2a6",
+      "latitude": "-0.56683",
+      "longitude": "120.05067",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PARIGI MOUTONG",
+      "daylight": "0",
+      "kode": "25b2822c2f5a3230abfadd476e8b04c9",
+      "latitude": "0.45327",
+      "longitude": "120.98611",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. POSO",
+      "daylight": "0",
+      "kode": "6ecbdd6ec859d284dc13885a37ce8d81",
+      "latitude": "-1.69132",
+      "longitude": "120.6594",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SIGI",
+      "daylight": "0",
+      "kode": "18997733ec258a9fcaf239cc55d53363",
+      "latitude": "-1.40296",
+      "longitude": "119.97746",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TOJO UNA-UNA",
+      "daylight": "0",
+      "kode": "8d7d8ee069cb0cbbf816bbb65d56947e",
+      "latitude": "-1.04025",
+      "longitude": "121.37331",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TOLI-TOLI",
+      "daylight": "0",
+      "kode": "75fc093c0ee742f6dddaa13fff98f104",
+      "latitude": "1.04403",
+      "longitude": "120.81313",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA PALU",
+      "daylight": "0",
+      "kode": "f74909ace68e51891440e4da0b65a70c",
+      "latitude": "-0.89822",
+      "longitude": "119.86466",
+      "state": "SULAWESI TENGAH",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOLAANG MONGONDOW",
+      "daylight": "0",
+      "kode": "66368270ffd51418ec58bd793f2d9b1b",
+      "latitude": "0.83398",
+      "longitude": "123.97407",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOLAANG MONGONDOW SELATAN",
+      "daylight": "0",
+      "kode": "248e844336797ec98478f85e7626de4a",
+      "latitude": "0.39741",
+      "longitude": "123.98117",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOLAANG MONGONDOW TIMUR",
+      "daylight": "0",
+      "kode": "019d385eb67632a7e958e23f24bd07d7",
+      "latitude": "0.68329",
+      "longitude": "124.56359",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOLAANG MONGONDOW UTARA",
+      "daylight": "0",
+      "kode": "a49e9411d64ff53eccfdd09ad10a15b3",
+      "latitude": "0.88069",
+      "longitude": "123.46587",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN SANGIHE",
+      "daylight": "0",
+      "kode": "ddb30680a691d157187ee1cf9e896d03",
+      "latitude": "3.55592",
+      "longitude": "125.53994",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN SIAU TAGULANDANG BIARO",
+      "daylight": "0",
+      "kode": "2421fcb1263b9530df88f7f002e78ea5",
+      "latitude": "2.74323",
+      "longitude": "125.38018",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN TALAUD",
+      "daylight": "0",
+      "kode": "fccb60fb512d13df5083790d64c4d5dd",
+      "latitude": "4.29303",
+      "longitude": "126.85032",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MINAHASA",
+      "daylight": "0",
+      "kode": "1651cf0d2f737d7adeab84d339dbabd3",
+      "latitude": "1.20963",
+      "longitude": "124.90874",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MINAHASA SELATAN",
+      "daylight": "0",
+      "kode": "eed5af6add95a9a6f1252739b1ad8c24",
+      "latitude": "1.03393",
+      "longitude": "124.31019",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MINAHASA TENGGARA",
+      "daylight": "0",
+      "kode": "a8abb4bb284b5b27aa7cb790dc20f80b",
+      "latitude": "1.0276",
+      "longitude": "124.72187",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MINAHASA UTARA",
+      "daylight": "0",
+      "kode": "15d4e891d784977cacbfcbb00c48f133",
+      "latitude": "1.58438",
+      "longitude": "124.83345",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA BITUNG",
+      "daylight": "0",
+      "kode": "c203d8a151612acf12457e4d67635a95",
+      "latitude": "1.44626",
+      "longitude": "125.12187",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA KOTAMOBAGU",
+      "daylight": "0",
+      "kode": "13f3cf8c531952d72e5847c4183e6910",
+      "latitude": "0.7384",
+      "longitude": "124.31006",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA MANADO",
+      "daylight": "0",
+      "kode": "550a141f12de6341fba65b0ad0433500",
+      "latitude": "1.48701",
+      "longitude": "124.8402",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TOMOHON",
+      "daylight": "0",
+      "kode": "67f7fb873eaf29526a11a9b7ac33bfac",
+      "latitude": "1.32081",
+      "longitude": "124.83828",
+      "state": "SULAWESI UTARA",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAJENE",
+      "daylight": "0",
+      "kode": "1a5b1e4daae265b790965a275b53ae50",
+      "latitude": "-3.0391",
+      "longitude": "118.85923",
+      "state": "SULAWESI BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAMASA",
+      "daylight": "0",
+      "kode": "9a96876e2f8f3dc4f3cf45f02c61c0c1",
+      "latitude": "-2.92676",
+      "longitude": "119.46721",
+      "state": "SULAWESI BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAMUJU",
+      "daylight": "0",
+      "kode": "9b70e8fe62e40c570a322f1b0b659098",
+      "latitude": "-2.72799",
+      "longitude": "118.9307",
+      "state": "SULAWESI BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAMUJU TENGAH",
+      "daylight": "0",
+      "kode": "d61e4bbd6393c9111e6526ea173a7c8b",
+      "latitude": "-2.72799",
+      "longitude": "118.9307",
+      "state": "SULAWESI BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAMUJU UTARA",
+      "daylight": "0",
+      "kode": "f5f8590cd58a54e94377e6ae2eded4d9",
+      "latitude": "-1.18319",
+      "longitude": "119.34596",
+      "state": "SULAWESI BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. POLEWALI MANDAR",
+      "daylight": "0",
+      "kode": "941e1aaaba585b952b62c14a3a175a61",
+      "latitude": "-3.40033",
+      "longitude": "119.24599",
+      "state": "SULAWESI BARAT",
+      "timezone": "8.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BURU",
+      "daylight": "0",
+      "kode": "9431c87f273e507e6040fcb07dcb4509",
+      "latitude": "-3.2715",
+      "longitude": "127.11846",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BURU SELATAN",
+      "daylight": "0",
+      "kode": "49ae49a23f67c759bf4fc791ba842aa2",
+      "latitude": "-3.51473",
+      "longitude": "126.84862",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN ARU",
+      "daylight": "0",
+      "kode": "e44fea3bec53bcea3b7513ccef5857ac",
+      "latitude": "-5.7602",
+      "longitude": "134.23079",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALUKU BARAT DAYA",
+      "daylight": "0",
+      "kode": "821fa74b50ba3f7cba1e6c53e8fa6845",
+      "latitude": "-7.82209",
+      "longitude": "127.3289",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALUKU TENGAH",
+      "daylight": "0",
+      "kode": "250cf8b51c773f3f8dc8b4be867a9a02",
+      "latitude": "-3.59748",
+      "longitude": "128.3366",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALUKU TENGGARA",
+      "daylight": "0",
+      "kode": "42998cf32d552343bc8e460416382dca",
+      "latitude": "-5.75368",
+      "longitude": "132.7005",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MALUKU TENGGARA BARAT",
+      "daylight": "0",
+      "kode": "d07e70efcfab08731a97e7b91be644de",
+      "latitude": "-7.98466",
+      "longitude": "131.30373",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SERAM BAGIAN BARAT",
+      "daylight": "0",
+      "kode": "7fe1f8abaad094e0b5cb1b01d712f708",
+      "latitude": "-3.07987",
+      "longitude": "128.22742",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SERAM BAGIAN TIMUR",
+      "daylight": "0",
+      "kode": "98b297950041a42470269d56260243a1",
+      "latitude": "-3.53012",
+      "longitude": "130.81551",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA AMBON",
+      "daylight": "0",
+      "kode": "0353ab4cbed5beae847a7ff6e220b5cf",
+      "latitude": "-3.70218",
+      "longitude": "128.18734",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TUAL",
+      "daylight": "0",
+      "kode": "51d92be1c60d1db1d2e5e7a07da55b26",
+      "latitude": "-5.6365",
+      "longitude": "132.74279",
+      "state": "MALUKU",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HALMAHERA BARAT",
+      "daylight": "0",
+      "kode": "428fca9bc1921c25c5121f9da7815cde",
+      "latitude": "0.78059",
+      "longitude": "127.62775",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HALMAHERA TENGAH",
+      "daylight": "0",
+      "kode": "f1b6f2857fb6d44dd73c7041e0aa0f19",
+      "latitude": "0.33439",
+      "longitude": "127.8804",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HALMAHERA UTARA",
+      "daylight": "0",
+      "kode": "68ce199ec2c5517597ce0a4d89620f55",
+      "latitude": "1.51705",
+      "longitude": "127.89911",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HALMAHERA SELATAN",
+      "daylight": "0",
+      "kode": "e836d813fd184325132fca8edcdfb40e",
+      "latitude": "-0.62786",
+      "longitude": "127.47888",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN SULA",
+      "daylight": "0",
+      "kode": "ab817c9349cf9c4f6877e1894a1faa00",
+      "latitude": "-2.06687",
+      "longitude": "125.98177",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. HALMAHERA TIMUR",
+      "daylight": "0",
+      "kode": "877a9ba7a98f75b90a9d49f53f15a858",
+      "latitude": "1.05624",
+      "longitude": "128.27065",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PULAU MOROTAI",
+      "daylight": "0",
+      "kode": "dc6a6489640ca02b0d42dabeb8e46bb7",
+      "latitude": "2.07732",
+      "longitude": "128.315",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PULAU TALIABU",
+      "daylight": "0",
+      "kode": "26337353b7962f533d78c762373b3318",
+      "latitude": "-1.94443",
+      "longitude": "124.38419",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TERNATE",
+      "daylight": "0",
+      "kode": "8e6b42f1644ecb1327dc03ab345e618b",
+      "latitude": "0.75867",
+      "longitude": "127.34913",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA TIDORE KEPULAUAN",
+      "daylight": "0",
+      "kode": "ef575e8837d065a1683c022d2077d342",
+      "latitude": "0.33095",
+      "longitude": "127.80205",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SOFIFI",
+      "daylight": "0",
+      "kode": "07563a3fe3bbe7e3ba84431ad9d055af",
+      "latitude": "0.73409",
+      "longitude": "127.56839",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SOFIFI",
+      "daylight": "0",
+      "kode": "53fde96fcc4b4ce72d7739202324cd49",
+      "latitude": "0.73409",
+      "longitude": "127.56839",
+      "state": "MALUKU UTARA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. ASMAT",
+      "daylight": "0",
+      "kode": "2050e03ca119580f74cca14cc6e97462",
+      "latitude": "-5.77011",
+      "longitude": "138.58196",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BIAK NUMFOR",
+      "daylight": "0",
+      "kode": "25ddc0f8c9d3e22e03d3076f98d83cb2",
+      "latitude": "-1.16251",
+      "longitude": "136.19852",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. BOVEN DIGOEL",
+      "daylight": "0",
+      "kode": "5ef0b4eba35ab2d6180b0bca7e46b6f9",
+      "latitude": "-6.09944",
+      "longitude": "140.31607",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DEIYAI",
+      "daylight": "0",
+      "kode": "598b3e71ec378bd83e0a727608b5db01",
+      "latitude": "-4.01401",
+      "longitude": "136.33394",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. DOGIYAI",
+      "daylight": "0",
+      "kode": "74071a673307ca7459bcf75fbd024e09",
+      "latitude": "-3.94489",
+      "longitude": "135.94584",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. INTAN JAYA",
+      "daylight": "0",
+      "kode": "cfee398643cbc3dc5eefc89334cacdc1",
+      "latitude": "-3.526332",
+      "longitude": "136.734065",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JAYAPURA",
+      "daylight": "0",
+      "kode": "d18f655c3fce66ca401d5f38b48c89af",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. JAYAWIJAYA",
+      "daylight": "0",
+      "kode": "6ea2ef7311b482724a9b7b0bc0dd85c6",
+      "latitude": "-4.08844",
+      "longitude": "138.94517",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEEROM",
+      "daylight": "0",
+      "kode": "9461cce28ebe3e76fb4b931c35a169b0",
+      "latitude": "-2.76799",
+      "longitude": "140.8062",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KEPULAUAN YAPEN",
+      "daylight": "0",
+      "kode": "f770b62bc8f42a0b66751fe636fc6eb0",
+      "latitude": "-1.88466",
+      "longitude": "136.24459",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. LANNY JAYA",
+      "daylight": "0",
+      "kode": "e1e32e235eee1f970470a3a6658dfdd5",
+      "latitude": "-3.92564",
+      "longitude": "138.45818",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAMBERAMO RAYA",
+      "daylight": "0",
+      "kode": "eba0dc302bcd9a273f8bbb72be3a687b",
+      "latitude": "-2.48988",
+      "longitude": "137.96911",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAMBERAMO TENGAH",
+      "daylight": "0",
+      "kode": "218a0aefd1d1a4be65601cc6ddc1520e",
+      "latitude": "-2.56187",
+      "longitude": "140.71112",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAPPI",
+      "daylight": "0",
+      "kode": "7d04bbbe5494ae9d2f5a76aa1c00fa2f",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MERAUKE",
+      "daylight": "0",
+      "kode": "a516a87cfcaef229b342c437fe2b95f7",
+      "latitude": "-8.52206",
+      "longitude": "140.39321",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MIMIKA",
+      "daylight": "0",
+      "kode": "c3c59e5f8b3e9753913f4d435b53c308",
+      "latitude": "-4.53266",
+      "longitude": "136.8319",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NABIRE",
+      "daylight": "0",
+      "kode": "854d9fca60b4bd07f9bb215d59ef5561",
+      "latitude": "-3.3421",
+      "longitude": "135.53078",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. NDUGA",
+      "daylight": "0",
+      "kode": "c410003ef13d451727aeff9082c29a5c",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PANIAI",
+      "daylight": "0",
+      "kode": "559cb990c9dffd8675f6bc2186971dc2",
+      "latitude": "-3.9273",
+      "longitude": "136.37363",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PEGUNUNGAN BINTANG",
+      "daylight": "0",
+      "kode": "55a7cf9c71f1c9c495413f934dd1a158",
+      "latitude": "-2.56471",
+      "longitude": "140.50553",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PUNCAK",
+      "daylight": "0",
+      "kode": "2f55707d4193dc27118a0f19a1985716",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PUNCAK JAYA",
+      "daylight": "0",
+      "kode": "1be3bc32e6564055d5ca3e5a354acbef",
+      "latitude": "-3.71414",
+      "longitude": "137.98323",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SARMI",
+      "daylight": "0",
+      "kode": "35051070e572e47d2c26c241ab88307f",
+      "latitude": "-1.87706",
+      "longitude": "138.75328",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SUPIORI",
+      "daylight": "0",
+      "kode": "b534ba68236ba543ae44b22bd110a1d6",
+      "latitude": "-0.74201",
+      "longitude": "135.74697",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TOLIKARA",
+      "daylight": "0",
+      "kode": "7380ad8a673226ae47fce7bff88e9c33",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. WAROPEN",
+      "daylight": "0",
+      "kode": "05f971b5ec196b8c65b75d2ef8267331",
+      "latitude": "-2.29266",
+      "longitude": "136.75784",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. YAHUKIMO",
+      "daylight": "0",
+      "kode": "3cf166c6b73f030b4f67eeaeba301103",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. YALIMO",
+      "daylight": "0",
+      "kode": "cee631121c2ec9232f3a2f028ad5c89b",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA JAYAPURA",
+      "daylight": "0",
+      "kode": "5b69b9cb83065d403869739ae7f0995e",
+      "latitude": "-2.56147",
+      "longitude": "140.71111",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. YAPEN WAROPEN",
+      "daylight": "0",
+      "kode": "2b8a61594b1f4c4db0902a8a395ced93",
+      "latitude": "-2.29266",
+      "longitude": "136.75784",
+      "state": "PAPUA",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. FAKFAK",
+      "daylight": "0",
+      "kode": "b5b41fac0361d157d9673ecb926af5ae",
+      "latitude": "-2.93016",
+      "longitude": "132.29363",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. KAIMANA",
+      "daylight": "0",
+      "kode": "285e19f20beded7d215102b49d5c09a0",
+      "latitude": "-3.63145",
+      "longitude": "134.87602",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MANOKWARI",
+      "daylight": "0",
+      "kode": "b337e84de8752b27eda3a12363109e80",
+      "latitude": "-0.86058",
+      "longitude": "134.06643",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MANOKWARI SELATAN",
+      "daylight": "0",
+      "kode": "e8c0653fea13f91bf3c48159f7c24f78",
+      "latitude": "-0.89854",
+      "longitude": "134.0443",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. MAYBRAT",
+      "daylight": "0",
+      "kode": "ff4d5fbbafdf976cfdc032e3bde78de5",
+      "latitude": "-1.31926",
+      "longitude": "132.26857",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. PEGUNUNGAN ARFAK",
+      "daylight": "0",
+      "kode": "2d6cc4b2d139a53512fb8cbb3086ae2e",
+      "latitude": "-0.87253",
+      "longitude": "131.25042",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. RAJA AMPAT",
+      "daylight": "0",
+      "kode": "389bc7bb1e1c2a5e7e147703232a88f6",
+      "latitude": "-0.42425",
+      "longitude": "130.81654",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SORONG",
+      "daylight": "0",
+      "kode": "e2230b853516e7b05d79744fbd4c9c13",
+      "latitude": "-0.87209",
+      "longitude": "131.24917",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. SORONG SELATAN",
+      "daylight": "0",
+      "kode": "087408522c31eeb1f982bc0eaf81d35f",
+      "latitude": "-1.15375",
+      "longitude": "131.97372",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TAMBRAUW",
+      "daylight": "0",
+      "kode": "a760880003e7ddedfef56acb3b09697f",
+      "latitude": "-0.49769",
+      "longitude": "132.08623",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TELUK BINTUNI",
+      "daylight": "0",
+      "kode": "10a7cdd970fe135cf4f7bb55c0e3b59f",
+      "latitude": "-2.45732",
+      "longitude": "133.1143",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KAB. TELUK WONDAMA",
+      "daylight": "0",
+      "kode": "3dc4876f3f08201c7c76cb71fa1da439",
+      "latitude": "-2.48978",
+      "longitude": "134.54072",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   },
+   {
+      "country": "INDONESIA",
+      "city": "KOTA SORONG",
+      "daylight": "0",
+      "kode": "59b90e1005a220e2ebc542eb9d950b1e",
+      "latitude": "-0.87209",
+      "longitude": "131.24917",
+      "state": "PAPUA BARAT",
+      "timezone": "9.0"
+   }
+]

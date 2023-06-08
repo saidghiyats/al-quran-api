@@ -3,7 +3,7 @@ const { Router } = require('express');
 const { caching } = require('./middlewares');
 const SurahHandler = require('./handlers/surah');
 const JuzHandler = require('./handlers/juz');
-const fullHandler = require('./handlers/full');
+const AllCityHandler = require('./handlers/allCities');
 
 const router = Router();
 
@@ -39,7 +39,7 @@ router.get('/surah', caching, SurahHandler.getAllSurah);
 router.get('/surah/:surah', caching, SurahHandler.getSurah);
 router.get('/surah/:surah/:ayah', caching, SurahHandler.getAyahFromSurah);
 router.get('/juz/:juz', caching, JuzHandler.getJuz);
-router.get('/full', fullHandler.getFull);
+router.get('/cities', caching, AllCityHandler.getAllCities);
 
 // fallback router
 router.all('*', (req, res) =>
