@@ -3,7 +3,6 @@ const { Router } = require('express');
 const { caching } = require('./middlewares');
 const SurahHandler = require('./handlers/surah');
 const JuzHandler = require('./handlers/juz');
-const AllCityHandler = require('./handlers/allCities');
 
 const router = Router();
 
@@ -29,17 +28,16 @@ router.get('/', (req, res) =>
             example: '/juz/30',
          },
       },
-      maintaner: 'Said Al-Ghiyats (said.ghiyatss@gmail.com)',
-      source: 'https://github.com/alghiyats/next-quran-api',
+      maintaner: 'SAID AL-GHIYATS (alghiyatssa@gmail.com)',
+      source: 'https://github.com/alghiyatssa/al-quran-api',
    })
 );
 
 router.get('/surah', caching, SurahHandler.getAllSurah);
 
 router.get('/surah/:surah', caching, SurahHandler.getSurah);
-router.get('/surah/:surah/:ayah', caching, SurahHandler.getAyahFromSurah);
+router.get('/surah/:surah/:ayah', caching, SurahHandler.getSpesificAyahInSurah);
 router.get('/juz/:juz', caching, JuzHandler.getJuz);
-router.get('/cities', caching, AllCityHandler.getAllCities);
 
 // fallback router
 router.all('*', (req, res) =>
