@@ -3,332 +3,332 @@
    "source": "https://github.com/alghiyats/next-quran-api/blob/main/data/juz.json",
    "data": [
       {
-         "index": 1,
+         "number": 1,
          "start": {
-            "index": 1,
+            "number": 1,
             "verse": 1
          },
          "end": {
-            "index": 2,
+            "number": 2,
             "verse": 141
          }
       },
       {
-         "index": 2,
+         "number": 2,
          "start": {
-            "index": 2,
+            "number": 2,
             "verse": 142
          },
          "end": {
-            "index": 2,
+            "number": 2,
             "verse": 252
          }
       },
       {
-         "index": 3,
+         "number": 3,
          "start": {
-            "index": 2,
+            "number": 2,
             "verse": 253
          },
          "end": {
-            "index": 3,
+            "number": 3,
             "verse": 92
          }
       },
       {
-         "index": 4,
+         "number": 4,
          "start": {
-            "index": 3,
+            "number": 3,
             "verse": 93
          },
          "end": {
-            "index": 4,
+            "number": 4,
             "verse": 23
          }
       },
       {
-         "index": 5,
+         "number": 5,
          "start": {
-            "index": 4,
+            "number": 4,
             "verse": 24
          },
          "end": {
-            "index": 4,
+            "number": 4,
             "verse": 147
          }
       },
       {
-         "index": 6,
+         "number": 6,
          "start": {
-            "index": 4,
+            "number": 4,
             "verse": 148
          },
          "end": {
-            "index": 5,
+            "number": 5,
             "verse": 81
          }
       },
       {
-         "index": 7,
+         "number": 7,
          "start": {
-            "index": 5,
+            "number": 5,
             "verse": 82
          },
          "end": {
-            "index": 6,
+            "number": 6,
             "verse": 110
          }
       },
       {
-         "index": 8,
+         "number": 8,
          "start": {
-            "index": 6,
+            "number": 6,
             "verse": 111
          },
          "end": {
-            "index": 7,
+            "number": 7,
             "verse": 87
          }
       },
       {
-         "index": 9,
+         "number": 9,
          "start": {
-            "index": 7,
+            "number": 7,
             "verse": 88
          },
          "end": {
-            "index": 8,
+            "number": 8,
             "verse": 40
          }
       },
       {
-         "index": 10,
+         "number": 10,
          "start": {
-            "index": 8,
+            "number": 8,
             "verse": 41
          },
          "end": {
-            "index": 9,
+            "number": 9,
             "verse": 92
          }
       },
       {
-         "index": 11,
+         "number": 11,
          "start": {
-            "index": 9,
+            "number": 9,
             "verse": 93
          },
          "end": {
-            "index": 11,
+            "number": 11,
             "verse": 5
          }
       },
       {
-         "index": 12,
+         "number": 12,
          "start": {
-            "index": 11,
+            "number": 11,
             "verse": 6
          },
          "end": {
-            "index": 12,
+            "number": 12,
             "verse": 52
          }
       },
       {
-         "index": 13,
+         "number": 13,
          "start": {
-            "index": 12,
+            "number": 12,
             "verse": 53
          },
          "end": {
-            "index": 14,
+            "number": 14,
             "verse": 52
          }
       },
       {
-         "index": 14,
+         "number": 14,
          "start": {
-            "index": 15,
+            "number": 15,
             "verse": 1
          },
          "end": {
-            "index": 16,
+            "number": 16,
             "verse": 128
          }
       },
       {
-         "index": 15,
+         "number": 15,
          "start": {
-            "index": 17,
+            "number": 17,
             "verse": 1
          },
          "end": {
-            "index": 18,
+            "number": 18,
             "verse": 74
          }
       },
       {
-         "index": 16,
+         "number": 16,
          "start": {
-            "index": 18,
+            "number": 18,
             "verse": 75
          },
          "end": {
-            "index": 20,
+            "number": 20,
             "verse": 135
          }
       },
       {
-         "index": 17,
+         "number": 17,
          "start": {
-            "index": 21,
+            "number": 21,
             "verse": 1
          },
          "end": {
-            "index": 22,
+            "number": 22,
             "verse": 78
          }
       },
       {
-         "index": 18,
+         "number": 18,
          "start": {
-            "index": 23,
+            "number": 23,
             "verse": 1
          },
          "end": {
-            "index": 25,
+            "number": 25,
             "verse": 20
          }
       },
       {
-         "index": 19,
+         "number": 19,
          "start": {
-            "index": 25,
+            "number": 25,
             "verse": 21
          },
          "end": {
-            "index": 27,
+            "number": 27,
             "verse": 55
          }
       },
       {
-         "index": 20,
+         "number": 20,
          "start": {
-            "index": 27,
+            "number": 27,
             "verse": 56
          },
          "end": {
-            "index": 29,
+            "number": 29,
             "verse": 45
          }
       },
       {
-         "index": 21,
+         "number": 21,
          "start": {
-            "index": 29,
+            "number": 29,
             "verse": 46
          },
          "end": {
-            "index": 33,
+            "number": 33,
             "verse": 30
          }
       },
       {
-         "index": 22,
+         "number": 22,
          "start": {
-            "index": 33,
+            "number": 33,
             "verse": 31
          },
          "end": {
-            "index": 36,
+            "number": 36,
             "verse": 27
          }
       },
       {
-         "index": 23,
+         "number": 23,
          "start": {
-            "index": 36,
+            "number": 36,
             "verse": 28
          },
          "end": {
-            "index": 39,
+            "number": 39,
             "verse": 31
          }
       },
       {
-         "index": 24,
+         "number": 24,
          "start": {
-            "index": 39,
+            "number": 39,
             "verse": 32
          },
          "end": {
-            "index": 41,
+            "number": 41,
             "verse": 46
          }
       },
       {
-         "index": 25,
+         "number": 25,
          "start": {
-            "index": 41,
+            "number": 41,
             "verse": 47
          },
          "end": {
-            "index": 45,
+            "number": 45,
             "verse": 37
          }
       },
       {
-         "index": 26,
+         "number": 26,
          "start": {
-            "index": 46,
+            "number": 46,
             "verse": 1
          },
          "end": {
-            "index": 51,
+            "number": 51,
             "verse": 30
          }
       },
       {
-         "index": 27,
+         "number": 27,
          "start": {
-            "index": 51,
+            "number": 51,
             "verse": 31
          },
          "end": {
-            "index": 57,
+            "number": 57,
             "verse": 29
          }
       },
       {
-         "index": 28,
+         "number": 28,
          "start": {
-            "index": 58,
+            "number": 58,
             "verse": 1
          },
          "end": {
-            "index": 66,
+            "number": 66,
             "verse": 12
          }
       },
       {
-         "index": 29,
+         "number": 29,
          "start": {
-            "index": 67,
+            "number": 67,
             "verse": 1
          },
          "end": {
-            "index": 77,
+            "number": 77,
             "verse": 50
          }
       },
       {
-         "index": 30,
+         "number": 30,
          "start": {
-            "index": 78,
+            "number": 78,
             "verse": 1
          },
          "end": {
-            "index": 114,
+            "number": 114,
             "verse": 6
          }
       }
