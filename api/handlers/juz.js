@@ -9,23 +9,29 @@ class JuzHandler {
     juzsData.data.forEach((juz) => {
       const juzs = [];
 
-      for (let i = juz.start.number; i <= juz.end.number; i++) {
-        const matchingSurah = quranData.data.find(
-          (surah) => surah.number === i
+      const chapters = juz.chapter.map((chapter) => chapter.number);
+
+      const matchingSurahs = quranData.data.filter((surah) =>
+        chapters.includes(surah.number)
+      );
+
+      matchingSurahs.forEach((matchingSurah) => {
+        const { number, verses, preBismillah, ...filteredSurah } =
+          matchingSurah;
+        const matchingChapters = juz.chapter.filter(
+          (chapter) => chapter.number === matchingSurah.number
         );
-        if (matchingSurah) {
-          // Menghapus properti yang tidak diperlukan
-          const { verses, preBismillah, ...filteredSurah } = matchingSurah;
 
-          // Menambahkan properti rangeOfVerses pada masing-masing surah
-          filteredSurah.rangeOfVerses = `${juz.start.verse}-${juz.end.verse}`;
+        filteredSurah.key = matchingChapters
+          .map((chapter) => chapter.key)
+          .toString();
 
-          juzs.push(filteredSurah);
-        }
-      }
+        juzs.push(filteredSurah);
+      });
 
       result.push({
         number: juz.number,
+
         juzs,
       });
     });

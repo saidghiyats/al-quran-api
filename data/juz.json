@@ -1,336 +1,693 @@
 {
-   "license": "(MIT) Said Al-Ghiyats (said.ghiyatss@gmail.com)",
-   "source": "https://github.com/alghiyats/next-quran-api/blob/main/data/juz.json",
-   "data": [
-      {
-         "number": 1,
-         "start": {
-            "number": 1,
-            "verse": 1
-         },
-         "end": {
-            "number": 2,
-            "verse": 141
-         }
-      },
-      {
-         "number": 2,
-         "start": {
-            "number": 2,
-            "verse": 142
-         },
-         "end": {
-            "number": 2,
-            "verse": 252
-         }
-      },
-      {
-         "number": 3,
-         "start": {
-            "number": 2,
-            "verse": 253
-         },
-         "end": {
-            "number": 3,
-            "verse": 92
-         }
-      },
-      {
-         "number": 4,
-         "start": {
-            "number": 3,
-            "verse": 93
-         },
-         "end": {
-            "number": 4,
-            "verse": 23
-         }
-      },
-      {
-         "number": 5,
-         "start": {
-            "number": 4,
-            "verse": 24
-         },
-         "end": {
-            "number": 4,
-            "verse": 147
-         }
-      },
-      {
-         "number": 6,
-         "start": {
-            "number": 4,
-            "verse": 148
-         },
-         "end": {
-            "number": 5,
-            "verse": 81
-         }
-      },
-      {
-         "number": 7,
-         "start": {
-            "number": 5,
-            "verse": 82
-         },
-         "end": {
-            "number": 6,
-            "verse": 110
-         }
-      },
-      {
-         "number": 8,
-         "start": {
-            "number": 6,
-            "verse": 111
-         },
-         "end": {
-            "number": 7,
-            "verse": 87
-         }
-      },
-      {
-         "number": 9,
-         "start": {
-            "number": 7,
-            "verse": 88
-         },
-         "end": {
-            "number": 8,
-            "verse": 40
-         }
-      },
-      {
-         "number": 10,
-         "start": {
-            "number": 8,
-            "verse": 41
-         },
-         "end": {
-            "number": 9,
-            "verse": 92
-         }
-      },
-      {
-         "number": 11,
-         "start": {
-            "number": 9,
-            "verse": 93
-         },
-         "end": {
-            "number": 11,
-            "verse": 5
-         }
-      },
-      {
-         "number": 12,
-         "start": {
-            "number": 11,
-            "verse": 6
-         },
-         "end": {
-            "number": 12,
-            "verse": 52
-         }
-      },
-      {
-         "number": 13,
-         "start": {
-            "number": 12,
-            "verse": 53
-         },
-         "end": {
-            "number": 14,
-            "verse": 52
-         }
-      },
-      {
-         "number": 14,
-         "start": {
-            "number": 15,
-            "verse": 1
-         },
-         "end": {
-            "number": 16,
-            "verse": 128
-         }
-      },
-      {
-         "number": 15,
-         "start": {
-            "number": 17,
-            "verse": 1
-         },
-         "end": {
-            "number": 18,
-            "verse": 74
-         }
-      },
-      {
-         "number": 16,
-         "start": {
-            "number": 18,
-            "verse": 75
-         },
-         "end": {
-            "number": 20,
-            "verse": 135
-         }
-      },
-      {
-         "number": 17,
-         "start": {
-            "number": 21,
-            "verse": 1
-         },
-         "end": {
-            "number": 22,
-            "verse": 78
-         }
-      },
-      {
-         "number": 18,
-         "start": {
-            "number": 23,
-            "verse": 1
-         },
-         "end": {
-            "number": 25,
-            "verse": 20
-         }
-      },
-      {
-         "number": 19,
-         "start": {
-            "number": 25,
-            "verse": 21
-         },
-         "end": {
-            "number": 27,
-            "verse": 55
-         }
-      },
-      {
-         "number": 20,
-         "start": {
-            "number": 27,
-            "verse": 56
-         },
-         "end": {
-            "number": 29,
-            "verse": 45
-         }
-      },
-      {
-         "number": 21,
-         "start": {
-            "number": 29,
-            "verse": 46
-         },
-         "end": {
-            "number": 33,
-            "verse": 30
-         }
-      },
-      {
-         "number": 22,
-         "start": {
-            "number": 33,
-            "verse": 31
-         },
-         "end": {
-            "number": 36,
-            "verse": 27
-         }
-      },
-      {
-         "number": 23,
-         "start": {
-            "number": 36,
-            "verse": 28
-         },
-         "end": {
-            "number": 39,
-            "verse": 31
-         }
-      },
-      {
-         "number": 24,
-         "start": {
-            "number": 39,
-            "verse": 32
-         },
-         "end": {
-            "number": 41,
-            "verse": 46
-         }
-      },
-      {
-         "number": 25,
-         "start": {
-            "number": 41,
-            "verse": 47
-         },
-         "end": {
-            "number": 45,
-            "verse": 37
-         }
-      },
-      {
-         "number": 26,
-         "start": {
-            "number": 46,
-            "verse": 1
-         },
-         "end": {
-            "number": 51,
-            "verse": 30
-         }
-      },
-      {
-         "number": 27,
-         "start": {
-            "number": 51,
-            "verse": 31
-         },
-         "end": {
-            "number": 57,
-            "verse": 29
-         }
-      },
-      {
-         "number": 28,
-         "start": {
-            "number": 58,
-            "verse": 1
-         },
-         "end": {
-            "number": 66,
-            "verse": 12
-         }
-      },
-      {
-         "number": 29,
-         "start": {
-            "number": 67,
-            "verse": 1
-         },
-         "end": {
-            "number": 77,
-            "verse": 50
-         }
-      },
-      {
-         "number": 30,
-         "start": {
-            "number": 78,
-            "verse": 1
-         },
-         "end": {
-            "number": 114,
-            "verse": 6
-         }
-      }
-   ]
+  "license": "(MIT) Said Al-Ghiyats (said.ghiyatss@gmail.com)",
+  "source": "https://github.com/alghiyats/next-quran-api/blob/main/data/juz.json",
+  "data": [
+    {
+      "number": 1,
+      "chapter": [
+        {
+          "number": 1,
+          "key": "1-7"
+        },
+        {
+          "number": 2,
+          "key": "1-141"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "chapter": [
+        {
+          "number": 2,
+          "key": "142-252"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "chapter": [
+        {
+          "number": 2,
+          "key": "253-286"
+        },
+        {
+          "number": 3,
+          "key": "1-92"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "chapter": [
+        {
+          "number": 3,
+          "key": "93-200"
+        },
+        {
+          "number": 4,
+          "key": "1-23"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "chapter": [
+        {
+          "number": 4,
+          "key": "24-147"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "chapter": [
+        {
+          "number": 4,
+          "key": "148-176"
+        },
+        { "number": 5, "key": "1-81" }
+      ]
+    },
+    {
+      "number": 7,
+      "chapter": [
+        {
+          "number": 5,
+          "key": "82-120"
+        },
+        {
+          "number": 6,
+          "key": "1-110"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "chapter": [
+        {
+          "number": 6,
+          "key": "111-165"
+        },
+        {
+          "number": 7,
+          "key": "1-87"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "chapter": [
+        {
+          "number": 7,
+          "key": "88-206"
+        },
+        {
+          "number": 8,
+          "key": "1-40"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "chapter": [
+        {
+          "number": 8,
+          "key": "41-75"
+        },
+        {
+          "number": 9,
+          "key": "1-92"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "chapter": [
+        {
+          "number": 9,
+          "key": "93-129"
+        },
+        {
+          "number": 10,
+          "key": "1-109"
+        },
+        {
+          "number": 11,
+          "key": "1-5"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "chapter": [
+        {
+          "number": 11,
+          "key": "6-123"
+        },
+        {
+          "number": 12,
+          "key": "1-52"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "chapter": [
+        {
+          "number": 12,
+          "key": "53-111"
+        },
+        {
+          "number": 13,
+          "key": "1-43"
+        },
+        {
+          "number": 14,
+          "key": "1-52"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "chapter": [
+        {
+          "number": 15,
+          "key": "1-99"
+        },
+        {
+          "number": 16,
+          "key": "1-128"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "chapter": [
+        {
+          "number": 17,
+          "key": "1-111"
+        },
+        {
+          "number": 18,
+          "key": "1-74"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "chapter": [
+        {
+          "number": 18,
+          "key": "75-110"
+        },
+        {
+          "number": 19,
+          "key": "1-98"
+        },
+        {
+          "number": 20,
+          "key": "1-135"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "chapter": [
+        {
+          "number": 21,
+          "key": "1-112"
+        },
+        {
+          "number": 22,
+          "key": "1-78"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "chapter": [
+        {
+          "number": 23,
+          "key": "1-118"
+        },
+        {
+          "number": 24,
+          "key": "1-64"
+        },
+        {
+          "number": 25,
+          "key": "1-20"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "chapter": [
+        {
+          "number": 25,
+          "key": "21-77"
+        },
+        {
+          "number": 26,
+          "key": "1-227"
+        },
+        {
+          "number": 27,
+          "key": "1-55"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "chapter": [
+        {
+          "number": 27,
+          "key": "56-93"
+        },
+        {
+          "number": 28,
+          "key": "1-88"
+        },
+        {
+          "number": 29,
+          "key": "1-45"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "chapter": [
+        {
+          "number": 29,
+          "key": "46-69"
+        },
+        {
+          "number": 30,
+          "key": "1-60"
+        },
+        {
+          "number": 31,
+          "key": "1-34"
+        },
+        {
+          "number": 32,
+          "key": "1-30"
+        },
+        {
+          "number": 33,
+          "key": "1-30"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "chapter": [
+        {
+          "number": 33,
+          "key": "31-73"
+        },
+        {
+          "number": 34,
+          "key": "1-54"
+        },
+        {
+          "number": 35,
+          "key": "1-45"
+        },
+        {
+          "number": 36,
+          "key": "1-27"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "chapter": [
+        {
+          "number": 36,
+          "key": "28-83"
+        },
+        {
+          "number": 37,
+          "key": "1-182"
+        },
+        {
+          "number": 38,
+          "key": "1-88"
+        },
+        {
+          "number": 39,
+          "key": "1-31"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "chapter": [
+        {
+          "number": 39,
+          "key": "32-75"
+        },
+        {
+          "number": 40,
+          "key": "1-85"
+        },
+        {
+          "number": 41,
+          "key": "1-46"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "chapter": [
+        {
+          "number": 41,
+          "key": "47-54"
+        },
+        {
+          "number": 42,
+          "key": "1-53"
+        },
+        {
+          "number": 43,
+          "key": "1-89"
+        },
+        {
+          "number": 44,
+          "key": "1-59"
+        },
+        {
+          "number": 45,
+          "key": "1-37"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "chapter": [
+        {
+          "number": 46,
+          "key": "1-35"
+        },
+        {
+          "number": 47,
+          "key": "1-38"
+        },
+        {
+          "number": 48,
+          "key": "1-29"
+        },
+        {
+          "number": 49,
+          "key": "1-18"
+        },
+        {
+          "number": 50,
+          "key": "1-45"
+        },
+        {
+          "number": 51,
+          "key": "1-30"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "chapter": [
+        {
+          "number": 51,
+          "key": "31-60"
+        },
+        {
+          "number": 52,
+          "key": "1-49"
+        },
+        {
+          "number": 53,
+          "key": "1-62"
+        },
+        {
+          "number": 54,
+          "key": "1-55"
+        },
+        {
+          "number": 55,
+          "key": "1-78"
+        },
+        {
+          "number": 56,
+          "key": "1-96"
+        },
+        {
+          "number": 57,
+          "key": "1-29"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "chapter": [
+        {
+          "number": 58,
+          "key": "1-22"
+        },
+        {
+          "number": 59,
+          "key": "1-24"
+        },
+        {
+          "number": 60,
+          "key": "1-13"
+        },
+        {
+          "number": 61,
+          "key": "1-14"
+        },
+        {
+          "number": 62,
+          "key": "1-11"
+        },
+        {
+          "number": 63,
+          "key": "1-11"
+        },
+        {
+          "number": 64,
+          "key": "1-18"
+        },
+        {
+          "number": 65,
+          "key": "1-12"
+        },
+        {
+          "number": 66,
+          "key": "1-12"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "chapter": [
+        {
+          "number": 67,
+          "key": "1-30"
+        },
+        {
+          "number": 68,
+          "key": "1-52"
+        },
+        {
+          "number": 69,
+          "key": "1-52"
+        },
+        {
+          "number": 70,
+          "key": "1-44"
+        },
+        {
+          "number": 71,
+          "key": "1-28"
+        },
+        {
+          "number": 72,
+          "key": "1-28"
+        },
+        {
+          "number": 73,
+          "key": "1-20"
+        },
+        {
+          "number": 74,
+          "key": "1-56"
+        },
+        {
+          "number": 75,
+          "key": "1-40"
+        },
+        {
+          "number": 76,
+          "key": "1-31"
+        },
+        {
+          "number": 77,
+          "key": "1-50"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "chapter": [
+        {
+          "number": 78,
+          "key": "1-40"
+        },
+        {
+          "number": 79,
+          "key": "1-46"
+        },
+        {
+          "number": 80,
+          "key": "1-42"
+        },
+        {
+          "number": 81,
+          "key": "1-29"
+        },
+        {
+          "number": 82,
+          "key": "1-19"
+        },
+        {
+          "number": 83,
+          "key": "1-36"
+        },
+        {
+          "number": 84,
+          "key": "1-25"
+        },
+        {
+          "number": 85,
+          "key": "1-22"
+        },
+        {
+          "number": 86,
+          "key": "1-17"
+        },
+        {
+          "number": 87,
+          "key": "1-19"
+        },
+        {
+          "number": 88,
+          "key": "1-26"
+        },
+        {
+          "number": 89,
+          "key": "1-30"
+        },
+        {
+          "number": 90,
+          "key": "1-20"
+        },
+        {
+          "number": 91,
+          "key": "1-15"
+        },
+        {
+          "number": 92,
+          "key": "1-21"
+        },
+        {
+          "number": 93,
+          "key": "1-11"
+        },
+        {
+          "number": 94,
+          "key": "1-8"
+        },
+        {
+          "number": 95,
+          "key": "1-8"
+        },
+        {
+          "number": 96,
+          "key": "1-19"
+        },
+        {
+          "number": 97,
+          "key": "1-5"
+        },
+        {
+          "number": 98,
+          "key": "1-8"
+        },
+        {
+          "number": 99,
+          "key": "1-8"
+        },
+        {
+          "number": 100,
+          "key": "1-11"
+        },
+        {
+          "number": 101,
+          "key": "1-11"
+        },
+        {
+          "number": 102,
+          "key": "1-8"
+        },
+        {
+          "number": 103,
+          "key": "1-3"
+        },
+        {
+          "number": 104,
+          "key": "1-9"
+        },
+        {
+          "number": 105,
+          "key": "1-5"
+        },
+        {
+          "number": 106,
+          "key": "1-4"
+        },
+        {
+          "number": 107,
+          "key": "1-7"
+        },
+        {
+          "number": 108,
+          "key": "1-3"
+        },
+        {
+          "number": 109,
+          "key": "1-6"
+        },
+        {
+          "number": 110,
+          "key": "1-3"
+        },
+        {
+          "number": 111,
+          "key": "1-5"
+        },
+        {
+          "number": 112,
+          "key": "1-4"
+        },
+        {
+          "number": 113,
+          "key": "1-5"
+        },
+        {
+          "number": 114,
+          "key": "1-6"
+        }
+      ]
+    }
+  ]
 }

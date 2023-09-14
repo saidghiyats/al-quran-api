@@ -1,54 +1,57 @@
-const { data: juzData } = require('../../data/juz.json');
-const { data: quranData } = require('../../data/quran.json');
+const { data: juzData } = require("../../data/juz.json");
+const { data: quranData } = require("../../data/quran.json");
 
 const getJuzData = (juzNumber) => {
-  const juz = juzData[juzNumber - 1];
+  const result = [];
+  const requestedJuz = parseInt(juzNumber);
 
-  if (!juz) return null;
-
-  const startSurahIndex = juz.start.number - 1;
-  const startAyahIndex = juz.start.number - 1;
-  const endSurahIndex = juz.end.number - 1;
-  const endAyahIndex = juz.end.verse;
-  const juzAyah = [];
-
-  for (let i = startSurahIndex; i <= endSurahIndex; i++) {
-    const surah = quranData[i];
-    const ayahCount = surah.verses.length;
-    const surahData = {
-      number: surah.number,
-      numberOfVerses: surah.numberOfVerses,
-      name: surah.name,
-      revelation: surah.revelation,
-      tafsir: surah.tafsir,
-      preBismillah: surah.preBismillah,
-      verses: []
-    };
-
-    if (i === startSurahIndex) {
-      for (let j = startAyahIndex; j < ayahCount; j++) {
-        surahData.verses.push(surah.verses[j]);
-      }
-    } else if (i === endSurahIndex) {
-      for (let j = 0; j < endAyahIndex; j++) {
-        surahData.verses.push(surah.verses[j]);
-      }
-    } else {
-      surahData.verses = surah.verses;
-    }
-
-    juzAyah.push(surahData);
+  if (
+    isNaN(requestedJuz) ||
+    requestedJuz < 1 ||
+    requestedJuz > juzData.length
+  ) {
+    return null; // Atau Anda dapat mengembalikan pesan kesalahan yang sesuai.
   }
 
-  const juzInfo = {
-    number: juzNumber,
-    start: `${quranData[startSurahIndex].name.transliteration.id} - ${juz.start.verse}`,
-    end: `${quranData[endSurahIndex].name.transliteration.id} - ${juz.end.verse}`,
-    numberOfVerses: juzAyah.reduce((total, surah) => total + surah.verses.length, 0),
-    juzs: juzAyah
-  };
+  const juzItem = juzData[requestedJuz - 1];
+  const chapters = juzItem.chapter.map((chapterInfo) => {
+    const startChapterNumber = chapterInfo.number;
+    const [startVerseNumber, endVerseNumber] = chapterInfo.key
+      .split("-")
+      .map(Number);
 
-  return juzInfo;
+    const chapter = quranData.find(
+      (surah) => surah.number === startChapterNumber
+    );
+
+    if (chapter) {
+      const verses = chapter.verses.slice(startVerseNumber - 1, endVerseNumber);
+
+      return {
+        number: startChapterNumber,
+        sequence: chapter.sequence,
+        numberOfVerses: chapter.numberOfVerses,
+        name: chapter.name,
+        translation: chapter.translation,
+        tafsir: chapter.tafsir,
+        preBismillah: chapter.preBismillah,
+        verses,
+      };
+    }
+  });
+
+  const totalAyah = chapters.reduce(
+    (total, chapter) => total + chapter.verses.length,
+    0
+  );
+
+  result.push({
+    number: requestedJuz,
+    totalAyah: totalAyah,
+    chapters,
+  });
+
+  return result;
 };
 
 module.exports = getJuzData;
