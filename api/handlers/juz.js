@@ -7,17 +7,16 @@ class JuzHandler {
     const result = [];
 
     juzsData.data.forEach((juz) => {
-      const juzs = [];
+      const chapters = [];
 
-      const chapters = juz.chapter.map((chapter) => chapter.number);
+      const data = juz.chapter.map((chapter) => chapter.number);
 
       const matchingSurahs = quranData.data.filter((surah) =>
-        chapters.includes(surah.number)
+        data.includes(surah.number)
       );
 
       matchingSurahs.forEach((matchingSurah) => {
-        const { number, verses, preBismillah, ...filteredSurah } =
-          matchingSurah;
+        const { verses, preBismillah, ...filteredSurah } = matchingSurah;
         const matchingChapters = juz.chapter.filter(
           (chapter) => chapter.number === matchingSurah.number
         );
@@ -26,13 +25,12 @@ class JuzHandler {
           .map((chapter) => chapter.key)
           .toString();
 
-        juzs.push(filteredSurah);
+        chapters.push(filteredSurah);
       });
 
       result.push({
         number: juz.number,
-
-        juzs,
+        chapters,
       });
     });
 
