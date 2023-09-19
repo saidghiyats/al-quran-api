@@ -3,6 +3,7 @@ const { data: quranData } = require("../../data/quran.json");
 
 const getJuzData = (juzNumber) => {
   const result = [];
+
   const requestedJuz = parseInt(juzNumber);
 
   if (
@@ -10,7 +11,7 @@ const getJuzData = (juzNumber) => {
     requestedJuz < 1 ||
     requestedJuz > juzData.length
   ) {
-    return null; // Atau Anda dapat mengembalikan pesan kesalahan yang sesuai.
+    return null;
   }
 
   const juzItem = juzData[requestedJuz - 1];
@@ -46,12 +47,12 @@ const getJuzData = (juzNumber) => {
   );
 
   result.push({
-    number: requestedJuz,
-    totalAyah: totalAyah,
+    juzNumber: requestedJuz,
+    totalAyah,
     chapters,
   });
 
-  return result;
+  return result[0];
 };
 
 module.exports = getJuzData;
