@@ -34,6 +34,7 @@ const getJuzData = (juzNumber) => {
         numberOfVerses: chapter.numberOfVerses,
         name: chapter.name,
         translation: chapter.translation,
+        revelation: chapter.revelation,
         tafsir: chapter.tafsir,
         preBismillah: chapter.preBismillah,
         verses,
